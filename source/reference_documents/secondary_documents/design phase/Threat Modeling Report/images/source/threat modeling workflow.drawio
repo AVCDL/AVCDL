@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-08-29T17:07:10.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="5jBRpBk_t7dU-cLXiIB2" version="21.6.8" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram id="E2ULkJl6go0xUk4_vNiQ" name="Page-1">
-    <mxGraphModel dx="3538" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3061" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,10 +131,10 @@
           <mxGeometry x="-555" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRI6FaqGRrZTjfz2rVRe-10" value="&lt;span style=&quot;&quot;&gt;threat modeling&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;SME&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#F9F7ED;verticalAlign=top;html=1;outlineConnect=0;fillColor=#F9F7ED;" parent="1" vertex="1">
-          <mxGeometry x="-910" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="-910" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRI6FaqGRrZTjfz2rVRe-11" value="&lt;span style=&quot;&quot;&gt;development&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; SME&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#F9F7ED;verticalAlign=top;html=1;outlineConnect=0;fillColor=#F9F7ED;" parent="1" vertex="1">
-          <mxGeometry x="-1020" y="210" width="30" height="60" as="geometry" />
+          <mxGeometry x="-1020" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LRI6FaqGRrZTjfz2rVRe-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D4E1F5;" parent="1" vertex="1">
           <mxGeometry x="-330" y="720" width="320" height="460" as="geometry" />
@@ -210,6 +210,36 @@
         </mxCell>
         <mxCell id="5iPzJqilZqpJKaaTBHVQ-1" value="updated development requirements" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-720" y="250" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-120" value="TARA - model creation" style="" parent="0" visible="0" />
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-61" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;exitX=0.357;exitY=0.783;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SZg-yA0rTZmQVMYanUPI-120" target="SZg-yA0rTZmQVMYanUPI-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1010.06" y="510.18000000000006" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1170" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-60" value="asset identification" style="whiteSpace=wrap;html=1;rounded=1;arcSize=42;align=center;verticalAlign=middle;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeColor=#FF0000;" vertex="1" parent="SZg-yA0rTZmQVMYanUPI-120">
+          <mxGeometry x="-920" y="640" width="124" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-121" value="TARA - analysis" style="" parent="0" visible="0" />
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-122" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SZg-yA0rTZmQVMYanUPI-121" target="SZg-yA0rTZmQVMYanUPI-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="500" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-123" value="attack path analysis" style="whiteSpace=wrap;html=1;rounded=1;arcSize=42;align=center;verticalAlign=middle;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeColor=#FF0000;" vertex="1" parent="SZg-yA0rTZmQVMYanUPI-121">
+          <mxGeometry x="-483" y="640" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-124" value="threat scenario identification" style="whiteSpace=wrap;html=1;rounded=1;arcSize=42;align=center;verticalAlign=middle;strokeWidth=3;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};strokeColor=#FF0000;" vertex="1" parent="SZg-yA0rTZmQVMYanUPI-121">
+          <mxGeometry x="-840" y="640" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SZg-yA0rTZmQVMYanUPI-130" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="SZg-yA0rTZmQVMYanUPI-121" source="SZg-yA0rTZmQVMYanUPI-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1090" y="500" as="sourcePoint" />
+            <mxPoint x="-630" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
