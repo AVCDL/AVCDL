@@ -1,4 +1,4 @@
-# AVCDL
+# AVCDL (A Versatile Cybersecurity Development Lifecycle)
 
 ## Overview
 
@@ -46,15 +46,15 @@ There is documentation relating to the use of the **AVCDL** in the context of **
 
 ## Training Material
 
-Companion video training material is currently under development.
+Companion video training material is under active development.
+
+Videos are on the [**AVCDL** YouTube channel](https://youtube.com/@AVCDL).
 
 ## AVCDL Assessments
 
 The **AVCDL** has been assessed as [complying](./assessments/ISO%20SAE%2021434%202021/TUVSUD_CybersecurityAssessmentSummary_Motional_AVCDL_v.2.12_signed.pdf) to **ISO/SAE 21434**.
 
 The **AVCDL** has been assessed as [complying](./assessments/UNECE%20WP.29%20R155/TUVSUD_CybersecurityAssessmentSummary_R155_Motional_AVCDL_v.3.2.pdf) to **UN R155**.
-
-The **AVCDL** is currently being assessed in the context of **ISO 24089** and **UN R156**.
 
 You can find results of these assessments [here](./assessments).
 
@@ -64,4 +64,4 @@ We're tracking when the **AVCDL** gets attention. You can find a list of mention
 
 ## Release Timetable
 
-The **AVCDL** has a lot of moving parts. We'll be providing material as soon as it has been reviewed by the certification body we're working with. You can see a summary of the secondary document status [here](./document%20status.md).
+You can see a summary of the document status [here](./document%20status.md).
