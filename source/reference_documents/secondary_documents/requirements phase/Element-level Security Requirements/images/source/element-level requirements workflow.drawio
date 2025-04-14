@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-12-18T15:17:44.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="XPqmtJ7hKSAU9EgIKT3Y" version="22.1.2" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram id="E2ULkJl6go0xUk4_vNiQ" name="Page-1">
-    <mxGraphModel dx="2822" dy="1628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1861" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T9uYkhnXP1cCb1YAXDwV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="XKbH0hADGiryWMfeD4Mq-11" edge="1" source="vc7AVv7h6INl57xTox3g-1">
+        <mxCell id="T9uYkhnXP1cCb1YAXDwV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#6a00ff;strokeColor=#3700CC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vc7AVv7h6INl57xTox3g-1" target="XKbH0hADGiryWMfeD4Mq-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1050" y="300" as="sourcePoint" />
@@ -68,10 +68,10 @@
         <mxCell id="XKbH0hADGiryWMfeD4Mq-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XKbH0hADGiryWMfeD4Mq-11" target="XKbH0hADGiryWMfeD4Mq-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XKbH0hADGiryWMfeD4Mq-11" value="product-level security catalog&lt;br&gt;creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+        <mxCell id="XKbH0hADGiryWMfeD4Mq-11" value="element-level security catalog&lt;br&gt;creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKbH0hADGiryWMfeD4Mq-12" value="product-level security requirements catalog" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+        <mxCell id="XKbH0hADGiryWMfeD4Mq-12" value="element-level security requirements catalog" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="830" y="350" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XKbH0hADGiryWMfeD4Mq-48" value="requirements applicability&lt;br&gt;analysis" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
         <mxCell id="T9uYkhnXP1cCb1YAXDwV-4" value="requirements applicability analysis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="600" width="450" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T9uYkhnXP1cCb1YAXDwV-5" value="product-level catalog creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="T9uYkhnXP1cCb1YAXDwV-5" value="element-level catalog creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="630" y="600" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8ABmSXp1aVmwxvK26rjk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="1" source="8ABmSXp1aVmwxvK26rjk-1" target="XKbH0hADGiryWMfeD4Mq-11" edge="1">
