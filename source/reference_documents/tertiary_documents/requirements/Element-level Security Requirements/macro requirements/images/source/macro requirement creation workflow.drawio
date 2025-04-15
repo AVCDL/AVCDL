@@ -1,0 +1,53 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram id="E2ULkJl6go0xUk4_vNiQ" name="Page-1">
+    <mxGraphModel dx="2020" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T9uYkhnXP1cCb1YAXDwV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="210" y="170" width="420" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="H5XpePlX6ZwJJM3T6B_w-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" parent="1" source="XKbH0hADGiryWMfeD4Mq-48" target="H5XpePlX6ZwJJM3T6B_w-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="480" />
+              <mxPoint x="270" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKbH0hADGiryWMfeD4Mq-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" source="XKbH0hADGiryWMfeD4Mq-7" target="XKbH0hADGiryWMfeD4Mq-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="420" y="260" />
+              <mxPoint x="420" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKbH0hADGiryWMfeD4Mq-7" value="&lt;span style=&quot;&quot;&gt;security&lt;br&gt;SME&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#F9F7ED;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="405" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKbH0hADGiryWMfeD4Mq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="XKbH0hADGiryWMfeD4Mq-48" target="8ABmSXp1aVmwxvK26rjk-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKbH0hADGiryWMfeD4Mq-48" value="macro requirement creation" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H5XpePlX6ZwJJM3T6B_w-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.001;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" parent="1" source="H5XpePlX6ZwJJM3T6B_w-1" target="XKbH0hADGiryWMfeD4Mq-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H5XpePlX6ZwJJM3T6B_w-1" value="cybersecurity requirements catalog" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="230" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="T9uYkhnXP1cCb1YAXDwV-4" value="macro requirement creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="600" width="420" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8ABmSXp1aVmwxvK26rjk-1" value="macro requirement enhanced&lt;div&gt;cybersecurity catalog&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
+          <mxGeometry x="530" y="350" width="80" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
