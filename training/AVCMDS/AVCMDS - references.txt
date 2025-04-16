@@ -1,0 +1,16 @@
+Safety data sheet
+https://en.wikipedia.org/wiki/Safety_data_sheet 
+
+Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement (AVCDL secondary document)
+
+AVCMDS: Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement
+https://github.com/nutonomy/AVCDL/blob/main/background_material/blog_posts/AVCMDS%20-%20autonomous%20vehicle%20cybersecurity%20manufacturer%20disclosure%20statement.pdf  
+
+Development of Material Safety Data Sheets
+https://jrm.phys.ksu.edu/Safety/kaplan.html 
+
+Manufacturer Disclosure Statement for Medical Device Security
+https://www.nema.org/standards/view/manufacturer-disclosure-statement-for-medical-device-security 
+
+Sailors play "Battleship" aboard a carrier
+https://www.flickr.com/photos/usnavy/6208029484/  

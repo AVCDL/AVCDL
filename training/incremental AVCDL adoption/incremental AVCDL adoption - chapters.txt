@@ -1,0 +1,20 @@
+00:00 Title
+00:12 Document Set
+00:34 AVCDL Materials
+01:39 AVCDL Framework
+03:43 Incremental Adoption Spectrum
+04:51 Prioritized Phase Requirements
+05:19 Preliminary vs Full Implementation
+06:03 Safety-related Phase Requirements
+06:10 Incremental Implementation Stages
+06:16 Barebones
+06:58 Tactical
+07:52 Tracked
+08:20 Managed
+08:55 Mature
+09:22 Supply Chain Activities
+10:36 Evaluate Your Status
+10:59 Map Your Status
+11:15 Summary
+12:06 GitHub
+12:32 References

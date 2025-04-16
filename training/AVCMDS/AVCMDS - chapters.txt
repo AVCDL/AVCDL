@@ -1,0 +1,15 @@
+00:00 Title
+00:15 Training Path
+01:01 Introduction
+05:49 AVCMDS Use in Supplier Selection
+06:14 AVCMDS Material
+06:44 AVCMDS Documentation
+07:29 AVCMDS Workflow
+08:34 AVCMDS Worksheet Details
+09:49 Worksheet Topics
+10:13 Worksheet Columns
+10:36 Answer Options
+11:34 As-Is Assessment
+11:57 GitHub
+12:22 Next Steps
+13:02 References

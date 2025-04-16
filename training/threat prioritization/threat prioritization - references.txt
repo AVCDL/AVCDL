@@ -1,0 +1,71 @@
+AVCDL primary document
+
+Incident Response Plan (AVCDL secondary document)
+
+Attack Surface Analysis Report (AVCDL secondary document)
+
+Threat Modeling Report (AVCDL secondary document)
+
+Threat Prioritization Plan (AVCDL secondary document)
+
+Ranked / Risked Threat Report (AVCDL secondary document)
+
+Threat Report (AVCDL secondary document)
+
+Secure Code Review Summary (AVCDL secondary document)
+
+Understanding TARA in an AVCDL Context (AVCDL elaboration document)
+
+Understanding Cybersecurity Risk Freshness in an AVCDL Context (AVCDL elaboration document)
+
+Common Vulnerability Scoring System
+https://www.first.org/cvss/ 
+
+NIST SP 800-39 - Managing Information Security Risk - Organization, Mission, and Information System View
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf  
+
+NIST SP 800-30 r1 - Guide for Conducting Risk Assessments
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf  
+
+Postmarket Management of Cybersecurity in Medical Devices
+https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarket-management-cybersecurity-medical-devices
+
+EVITA D2.3 Security requirements for automotive on-board networks based on dark-side scenarios
+https://zenodo.org/record/1188418/files/EVITAD2.3v1.1.pdf 
+
+ISO 26262-3:2018 Road vehicles – Functional safety – Part 3: Concept phase
+https://www.iso.org/standard/68385.html  
+
+ISO 14971:2019 Medical devices – Application of risk management to medical devices
+https://www.iso.org/standard/72704.html 
+
+NIST FIPS 199 Standards for Security Categorization of Federal Information and Information Systems
+https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf 
+
+Static Analysis Results Interchange Format (SARIF) Version 2.1.0
+https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.pdf  
+
+Document Management Standard
+https://en.wikipedia.org/wiki/Document_management_system 
+
+Jeff Masin, a one-man band in New York City [slgckgc, CC BY 2.0]
+https://www.flickr.com/photos/slgc/8037345945/
+https://commons.wikimedia.org/w/index.php?curid=47370848 
+
+Orchestra Simfonica București [Alxndrul - own work, CC BY-SA 4.0]
+https://commons.wikimedia.org/w/index.php?curid=47237273 
+
+Onemanband [unknown author - unknown source, CC BY-SA 3.0]
+https://commons.wikimedia.org/w/index.php?curid=2070429 
+
+One man band 1865 [Lemur12 - own work, CC BY-SA 3.0]
+https://commons.wikimedia.org/w/index.php?curid=5527428 
+
+The Common Configuration Scoring System (CCSS): Metrics for Software Security Configuration Vulnerabilities
+https://nvlpubs.nist.gov/nistpubs/legacy/ir/nistir7502.pdf   
+
+The Common Misuse Scoring System (CMSS): Metrics for Software Feature Misuse Vulnerabilities
+https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=910230  
+
+Common Vulnerability Scoring System Calculator
+https://nvd.nist.gov/vuln-metrics/cvss/v2-calculator?calculator&adv&.0 

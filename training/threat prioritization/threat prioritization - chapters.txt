@@ -1,0 +1,20 @@
+00:00 Title
+00:14 Training Path
+00:27 Introduction
+02:28 Threat Prioritization and Feedback
+05:06 Threat Candidate Sources
+05:53 Threat Prioritization Workflow
+06:16 Threat Candidate Ranking
+07:56 Threat Candidate Information
+11:15 Threat Candidate Risking
+11:53 Threat Candidate Slicing
+13:31 Slicing
+15:38 Quantization
+19:54 Quantized Slicing
+21:59 Prioritization
+24:02 Multiple Risk Domains
+25:57 Multi-domain Workflow
+27:44 Summary
+28:43 GitHub
+29:07 Next Steps
+29:47 References

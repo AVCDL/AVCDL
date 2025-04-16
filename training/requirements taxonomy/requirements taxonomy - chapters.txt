@@ -1,0 +1,22 @@
+00:00 Title
+00:14 Training Path
+00:28 Introduction
+01:37 Cybersecurity Control Points
+03:08 Asset Classes
+05:41 Cybersecurity Properties
+06:27 Cybersecurity Properties Timeline
+10:42 Security Services Model
+12:46 Nested CIA
+14:11 Extended CIA
+14:42 Cybersecurity Properties
+15:54 Resource Access Working Model
+18:31 Combining Property and Asset
+19:00 Same Problem - Different Floor
+22:59 Layers
+24:34 Taxonomy Space
+25:09 Identifying Requirement Needs
+28:36 Use Cases
+30:35 Summary
+31:58 GitHub
+32:22 Next Steps
+32:28 References

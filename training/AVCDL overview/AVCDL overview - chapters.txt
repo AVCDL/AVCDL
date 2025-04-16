@@ -1,0 +1,28 @@
+00:00 Title
+00:15 Introduction
+01:01 Lifecycle Basics
+01:47 Standards and Regulations Ecosystem
+04:32 How Standards Line Up
+07:17 AVPDL - Autonomous Vehicle Product Development Lifecycle
+08:09 AVPDL - Organizational Processes
+08:31 AVPDL - Supplier Processes
+08:57 AVPDL - Lifecycle Phases
+11:05 Reference Sources
+13:05 How Sources Inform the AVCDL
+16:34 ISO/SAE 21434 Work Products and Requirements
+17:07 ISO/SAE 21434-AVCDL Mapping
+17:48 AVCDL Framework
+20:06 Design Deficiencies vs Implementation Defects
+21:46 V-model Overlay
+22:04 V-model View
+22:55 Cyclic View
+23:34 Cyclic Feedback
+24:35 Traceability
+26:13 Typical Phase Requirement
+30:41 Process Workflows
+31:57 Document References
+32:17 AVCDL Documents Available
+34:04 Assessment Timeline
+36:19 GitHub
+36:42 Next Steps
+37:24 References

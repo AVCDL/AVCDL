@@ -1,0 +1,5 @@
+Incremental AVCDL Adoption (AVCDL elaboration document)
+https://github.com/AVCDL/AVCDL/blob/main/distribution/reference_documents/elaboration_documents/Incremental%20AVCDL%20Adoption.pdf 
+
+AVCDL vendor CMM template (AVCDL template document)
+https://github.com/AVCDL/AVCDL/blob/main/distribution/reference_documents/templates/AVCDL%20vendor%20CMM%20template.xlsx   

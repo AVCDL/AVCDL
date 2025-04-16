@@ -1,0 +1,13 @@
+00:00 Title
+00:11 Training Path
+00:48 Cybersecurity Standards and Regulatory Ecosystem
+01:59 R155 At a Glance
+02:50 R155 Supply Chain Scope
+04:00 R155 Requirements
+06:44 ISO 21434 Work Products and Requirements
+07:13 AVCDL to ISO 21434 Mapping
+07:45 AVCDL Document Set
+09:23 AVCDL Materials
+10:02 GitHub
+10:27 Next Steps
+11:05 References

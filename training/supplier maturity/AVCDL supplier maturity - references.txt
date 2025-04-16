@@ -1,0 +1,28 @@
+Capability Maturity Model
+https://en.wikipedia.org/wiki/Capability_Maturity_Model
+
+Supplier Self-reported Cybersecurity Maturity Assessment (AVCDL secondary document)
+
+ISO/IEC 21827 - Information technology — Security techniques — Systems Security Engineering — Capability Maturity Model® (SSE-CMM®)
+https://www.iso.org/standard/44716.html   
+
+CMM level and CMM Sweet Spot images (CC BY-ND 4.0)
+https://www.securecontrolsframework.com/sp-cmm
+
+Systems Security Engineering Capability Maturity Model – Model Description Document Version 2.0 (1999-01-04)
+https://apps.dtic.mil/dtic/tr/fulltext/u2/a393329.pdf  
+
+AVCDL CMM template
+https://github.com/AVCDL/AVCDL/blob/main/distribution/reference_documents/templates/AVCDL vendor CMM template.xlsx   
+
+AVCDL cybersecurity interface agreement summary template
+https://github.com/AVCDL/AVCDL/blob/main/distribution/reference_documents/templates/AVCDL%20cybersecurity%20interface%20agreement%20summary%20template.xlsx 
+
+Nearside of Moon, by Lunar Reconnaissance Orbiter
+https://commons.wikimedia.org/wiki/File:Moon_nearside_LRO.jpg#/media/File:Moon_nearside_LRO_color_mosaic.png 
+
+Where are You at? Level Setting Supplier Cybersecurity Maturity
+https://github.com/AVCDL/AVCDL/blob/main/background_material/blog_posts/where%20are%20you%20at%20-%20level%20setting%20supplier%20cybersecurity%20maturity.pdf    
+
+Apollo 13 - Pre-Launch Activities and the Crewman Change
+https://history.nasa.gov/afj/ap13fj/00crewchange.html 

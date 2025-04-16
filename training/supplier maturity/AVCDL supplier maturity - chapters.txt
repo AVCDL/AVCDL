@@ -1,0 +1,19 @@
+00:00 Title
+00:12 Training Path
+00:58 Introduction
+02:38 AVCDL
+03:01 Supplier Self-reported Maturity Use in Supplier Selection
+03:51 As-Is Assessment
+04:19 Supplier Self-report Maturity Material
+04:47 Supplier Self-report Maturity Documentation
+05:31 Maturity Level vs. Cost and Complexity
+10:48 Supplier Self-reported Maturity Workflow
+11:53 Supplier Self-reported Maturity Worksheet
+13:15 Understanding AVCDL Phase Requirements
+14:04 Always Verify
+14:40 Supplier Self-reported Maturity Progress Tracking
+14:50 Maturity Summary
+15:32 Visualizing Maturity
+16:22 GitHub
+16:45 Next Steps
+17:21 References

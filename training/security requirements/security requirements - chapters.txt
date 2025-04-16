@@ -1,0 +1,29 @@
+00:00 Title
+00:12 Training Path
+00:31 Introduction
+01:51 Functional Requirements to Development Tasks
+02:27 Functional and Non-functional Requirements
+07:40 Cybersecurity Requirements to Development Tasks
+09:20 Overall Dependencies
+10:06 Cybersecurity Requirements-related Guidance Documents
+15:42 Element Cybersecurity Relevancy
+24:17 Product-level Requirements Workflow
+24:34 Requirements Applicability Analysis
+26:04 Resource Access Working Model
+27:12 Taxonomy Space
+28:15 Identifying Requirement Needs
+29:07 Cybersecurity Global Requirements Catalog
+30:08 Tailored Catalog Creation
+30:44 Tailored and Macro Cybersecurity Requirements
+33:51 Macro Cybersecurity Requirement Example
+35:50 AVCDL Framework
+37:31 Secure Design Analysis Workflow
+40:06 Why Bother?
+41:40 Overall Dependencies (2)
+44:00 Cybersecurity Requirements-related Guidance Documents (2)
+44:23 Unit Testing and Verification Activities
+44:51 Cybersecurity Requirements to Cybersecurity Tests
+46:23 Further Reading
+46:40 GitHub
+47:04 Next Steps
+47:25 References

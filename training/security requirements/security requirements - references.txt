@@ -1,0 +1,42 @@
+AVCDL (primary document)
+
+Security Requirements Taxonomy (AVCDL secondary document)
+
+Element-level Security Requirements (AVCDL secondary document)
+
+Element Cybersecurity Relevancy (AVCDL secondary document)
+
+Design Showing Security Considerations (AVCDL secondary document)
+
+Fuzz Testing Report (AVCDL secondary document)
+
+Penetration Testing Report (AVCDL secondary document)
+
+cybersecurity requirements per taxonomy.xlsx (AVCDL workbook)
+
+INCOSE Requirements Working Group
+https://www.incose.org/2021-redesign/working-groups-v1/requirements  
+
+Non-functional requirement
+https://en.wikipedia.org/wiki/Non-functional_requirement   
+
+Functional requirement
+https://en.wikipedia.org/wiki/Functional_requirement   
+
+Nonfunctional Requirements
+https://scaledagileframework.com/nonfunctional-requirements/ 
+
+Tree Swing Cartoon Pictures (early versions)
+https://www.businessballs.com/amusement-stress-relief/tree-swing-cartoon-pictures-early-versions/  
+
+File:Questionnaire-checklist-completed.png
+https://commons.wikimedia.org/wiki/File:Questionnaire-checklist-completed.png   
+
+File:Three mystery boxes.jpg
+https://commons.wikimedia.org/wiki/File:Three_mystery_boxes.jpg   
+
+Specification of Secure Onboard Communication Protocol
+https://www.autosar.org/fileadmin/standards/R20-11/FO/AUTOSAR_PRS_SecOcProtocol.pdf    
+
+ISO/IEC 25010:2011Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) – System and software quality models
+https://www.iso.org/standard/35733.html 

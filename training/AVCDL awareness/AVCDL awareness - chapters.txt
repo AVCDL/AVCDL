@@ -1,0 +1,18 @@
+00:00 Title
+00:10 Introduction
+00:58 Cybersecurity Standards and Regulations Ecosystem
+03:11 Lifecycle Basics
+04:15 AVCDL Framework
+04:39 AVCDL Framework - Foundation Phase
+05:05 AVCDL Framework - Intra-developmental Phases
+05:24 AVCDL Framework - Post-developmental Phases
+06:03 Design Deficiencies sv Implementation Defects
+08:08 Implementation Methodologies
+09:08 V-model Implementation Methodology
+09:32 Cyclic Implementation Methodology
+10:08 Process Workflows
+11:26 AVCDL Documents
+12:49 Assessed for Compliance
+13:33 AVCDL on GitHub
+13:52 AVCDL on YouTube
+14:12 References

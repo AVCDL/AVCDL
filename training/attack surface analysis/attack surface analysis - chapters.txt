@@ -1,0 +1,22 @@
+00:00 Title
+00:11 Training Path
+00:42 Introduction
+03:06 Terminology
+04:54 Simple System
+07:21 Physical Ports
+08:31 Logical Ports
+11:58 Common Protocols
+12:59 Operating Systems
+19:42 Process-centric Worldview
+21:07 Attack Surface Analysis Workflow
+22:17 Excessive Exposure
+25:21 Threat Candidate Information
+26:31 Layers
+28:58 Dependencies
+30:23 Verification
+31:02 Attack Surface Analysis Review
+32:52 Summary
+33:44 Further Reading
+34:05 GitHub
+34:29 Next Steps
+34:58 References

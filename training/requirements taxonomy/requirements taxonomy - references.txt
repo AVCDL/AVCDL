@@ -1,0 +1,76 @@
+AVCDL primary document
+
+Global Security Requirements (AVCDL secondary document)
+
+Understanding the Extended CIA Working Model (AVCDL elaboration document)
+
+cybersecurity requirements per taxonomy (AVCDL working material spreadsheet)
+
+Proposal for a Recommendation on Cyber Security
+https://www.unece.org/fileadmin/DAM/trans/doc/2019/wp29grva/ECE-TRANS-WP29-GRVA-2019-02e.pdf 
+
+A Vulnerable System: The History of Information Security in the Computer Age
+https://www.amazon.com/dp/1501758942 
+
+The Protection of Information in Computer Systems
+http://cs.uccs.edu/~cs691/designPrinciples/ProtectionOfInformationInComputerSystems1975.pdf 
+
+On the implementation of security measures in information systems
+https://ecommons.cornell.edu/bitstream/handle/1813/5964/71-120.pdf 
+
+Security and Privacy in Computer Systems
+https://www.rand.org/content/dam/rand/pubs/papers/2005/P3544.pdf 
+
+On Distributed Communication: IX. Security, Secrecy, and Tamper-free considerations
+https://www.rand.org/content/dam/rand/pubs/research_memoranda/2006/RM3765.pdf 
+
+Department of Defense Trusted Computer System Evaluation Criteria
+https://upload.wikimedia.org/wikipedia/commons/4/4f/Trusted_Computer_System_Evaluation_Criteria_CSC-STD-001-83.pdf 
+
+NIST SP 800-33 - Underlying Technical Models for Information Technology Security
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-33.pdf 
+
+The Security Development Lifecycle
+https://www.amazon.com/dp/0735622140 
+
+44 U.S.C. section 3542. Definitions
+https://www.govinfo.gov/content/pkg/USCODE-2011-title44/pdf/USCODE-2011-title44-chap35-subchapIII-sec3542.pdf 
+
+Our Excessively Simplistic Information Security Model and How to Fix It
+https://www.bluetoad.com/publication/?m=1336&i=41813&p=12&ver=html5 
+
+Organizational effects and management of information security
+https://www.diva-portal.org/smash/get/diva2:1148330/FULLTEXT01.pdf 
+
+(OICA-CLEPA) Table on CS threats - ext CIA approach + mitigations
+https://wiki.unece.org/download/attachments/44269826/TFCS-06-10%20%28OICA-CLEPA%29%20Table%20on%20CS%20threats%20-%20ext%20CIA%20approach%20%2B%20mitigations.xlsx?api=v2 
+
+Distributed Immutable Ephemeral - New Paradigms for the Next Era of Security
+https://www.slideshare.net/sounilyu/distributed-immutable-ephemeral-new-paradigms-for-the-next-era-of-security 
+
+Secure Systems Development with UML
+https://www.amazon.com/dp/3540007016 
+
+Specifying Reusable Security Requirements
+https://www.jot.fm/issues/issue_2004_01/column6.pdf  
+
+Security Quality Requirements Engineering (SQUARE) Methodology
+https://resources.sei.cmu.edu/asset_files/technicalreport/2005_005_001_14594.pdf 
+
+A Taxonomy of Software Security Requirements
+https://repositorio.unal.edu.co/handle/unal/24281 
+
+ISO/IEC-7498-2, Information technology – Open Systems Interconnection – Basic Reference Model — Part 2: Security Architecture
+https://www.iso.org/standard/14256.html 
+
+ITU TR X-800, Security Architecture for Open Systems Interconnection for CCITT Applications
+https://www.itu.int/rec/dologin_pub.asp?lang=e&id=T-REC-X.800-199103-I!!PDF-E&type=items 
+
+Darts in a dartboard
+https://commons.wikimedia.org/wiki/File:Darts_in_a_dartboard.jpg  
+
+Paperwork - by Tom Ventura
+https://commons.wikimedia.org/wiki/File:Paperwork_-_by_Tom_Ventura.jpg   
+
+Library Stacks (8145376020)
+https://commons.wikimedia.org/wiki/File:Library_Stacks_(8145376020).jpg    

@@ -1,0 +1,16 @@
+00:00 Title
+00:12 Training Path
+00:53 Introduction
+02:14 Supplier Processes
+02:34 AVCDL
+02:46 Supplier Process Overlay
+03:13 Process Mapping Use in Supplier Selection
+04:13 Process Mapping Material
+04:48 Understanding AVCDL Phase Requirements
+05:35 Process Mapping Documentation
+06:59 Supplier Process Mapping Workflow
+08:33 Mapping Worksheets
+11:12 Always Verify
+11:37 GitHub
+12:01 Next Steps
+12:32 References

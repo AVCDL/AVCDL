@@ -1,0 +1,45 @@
+AVCDL primary document
+
+Attack Surface Analysis Report (AVCDL secondary document)
+
+Updated Attack Surface Analysis (AVCDL secondary document)
+
+Threat Modeling Report (AVCDL secondary document)
+
+Threat Prioritization Plan (AVCDL secondary document)
+
+Microsoft Attack Surface Analyzer
+https://github.com/microsoft/attacksurfaceanalyzer  
+
+Mixed onions: red and brown onions, with and without skin, whole and sliced and in rings (Colin, CC BY-SA 3.0)
+https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg   
+
+Threat Modeling Vocabulary (capture of 11 May 2011 blog post)
+https://web.archive.org/web/20161101093537/https://www.cigital.com/blog/threat-modeling-vocabulary/ 
+
+Threat Modeling Glossary Diagram (for above blog post capture)
+https://www.synopsys.com/blogs/software-security/wp-content/uploads/2015/08/threat-modeling-glossary-diagram.jpg
+
+Service Name and Transport Protocol Port Number Registry
+https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml 
+
+OBD II connector (M Minderhoud, CC BY-SA 3.0)
+https://commons.wikimedia.org/wiki/File:OBD_002.jpg    
+
+Example of computer connector sockets on laptops. Dell M65, Dell M4300, Fujitsu-Siemens Celsius H250, F-S docking station, Dell docking station (Traveler100, CC BY-SA 3.0)
+https://commons.wikimedia.org/wiki/File:Computer-connector-sockets.jpg  
+
+Objective 1.1: Common Protocols
+https://en.wikibooks.org/wiki/Network_Plus_Certification/Technologies/Common_Protocols 
+
+160421-N-YE579-005 [USS Zumwalt] (National Museum of the U.S. Navy)
+https://commons.wikimedia.org/wiki/File:160421-N-YE579-005_(26543438313).jpg 
+
+USS Gridley (DDG-101) 2008 (U.S. Navy)
+https://commons.wikimedia.org/wiki/File:USS_Gridley_(DDG-101)_2008.jpg  
+
+Foundations of Supply Chain Management for Space Application
+https://ntrs.nasa.gov/api/citations/20170011140/downloads/20170011140.pdf 
+
+Just enough operating system
+https://en.wikipedia.org/wiki/Just_enough_operating_system  
