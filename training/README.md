@@ -7,7 +7,10 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 ![general AVCDL training path](./images/AVCDL%20training%20path/processed/AVCDL%20training%20path%20-%20wide%20(video).png)
 
 **AVCDL overview** [[video]](https://youtu.be/AQiNcstp5bM) [[supporting material]](./AVCDL%20overview/)
-<br/> This training provides a general overview as to the construction and use of the Autonomous Vehicle Cybersecurity Development Lifecycle (AVCDL).
+<br/> This training provides a general overview as to the construction and use of the AVCDL.
+
+**AVCDL awareness** [[video]](https://youtu.be/9GacY3qv1Sc) [[supporting material]](./AVCDL%20awareness/)
+<br/> This training provides an overview of the AVCDL for non-cybersecurity individuals.
 
 **incremental AVCDL adoption** [[video]](https://youtu.be/gA5rflBB8EM) [[supporting material]](./incremental%20AVCDL%20adoption/)
 <br/> This training covers a recommended path to incremental adoption of the AVCDL.
@@ -23,6 +26,12 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 
 **attack surface analysis** [[video]](https://youtu.be/020juNobpr4) [[supporting material]](./attack%20surface%20analysis/)
 <br/> This training covers how attack surface analysis is preformed within the AVCDL.
+
+**threat modeling - overview** [[video]](https://youtu.be/P_9VWDovugw) [[supporting material]](./threat%20modeling%20-%20overview/)
+<br/> This training provides an overview of the threat modeling process.
+
+**threat modeling - model creation** [[video]](https://youtu.be/7PGn668PueY) [[supporting material]](./threat%20modeling%20-%20model%20creation/)
+<br/> This training covers the threat modeling model creation activity.
 
 ## Supply Chain
 
