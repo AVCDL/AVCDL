@@ -1,0 +1,23 @@
+00:00 Title
+00:09 Training Path
+00:37 Introduction
+01:36 Deficiencies vs Defects
+02:27 Terminology
+03:08 What is a Threat Model
+03:32 Threat Modeling Lifecycle
+05:18 Threat Modeling Process
+05:34 Model Creation
+05:51 Simple System - Block View
+06:39 Simple System - DFD
+07:25 Model Analysis
+07:44 DFD Analysis
+07:56 Resource Access Working Model
+09:12 Threat Candidate Triage
+09:51 Threat Modeling Feedback
+10:25 Threat Model Verification
+10:38 V-model View
+11:21 Threat Model Review Feedback
+11:58 AVCDL on GitHub
+12:19 AVCDL on YouTube
+12:39 Next Steps
+13:06 References

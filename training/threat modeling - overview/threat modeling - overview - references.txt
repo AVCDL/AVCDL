@@ -1,0 +1,39 @@
+The Security Development Lifecycle (Michael Howard and Steve Lipner)
+
+Threat Modeling: Designing for Security (Adam Shostack)
+
+Guide to Data-Centric System Threat Modeling
+https://csrc.nist.gov/publications/detail/sp/800-154/draft  
+
+NDC 2018: Threat Modeling: Uncover Vulnerabilities Without Looking at Code (video)
+https://www.youtube.com/watch?v=Fmp9UFjPiJs 
+
+Microsoft Security Development Lifecycle (SDL) - simplified implementation
+http://download.microsoft.com/download/F/7/D/F7D6B14F-0149-4FE8-A00F-0B9858404D85/Simplified Implementation of the SDL.doc 
+
+Threat Modeling for IoT Systems (video)
+https://www.youtube.com/watch?v=DusPiguYq2w  
+
+Trustworthy Computing
+https://www.wired.com/2002/01/bill-gates-trustworthy-computing/
+
+Commercial Kitchen Image
+https://oklahomaworks.gov/wp-content/uploads/2018/01/Build-your-ideal-workforce-through-apprenticeship.-Header.jpg 
+
+AVCDL (GitHub)
+https://github.com/nutonomy/AVCDL
+
+AVCDL (YouTube)
+https://youtube.com/@AVCDL 
+
+Threat Modeling Report (AVCDL secondary document)
+
+Understanding Verification and Validation in an AVCDL Context (AVCDL elaboration document)
+
+Understanding Cybersecurity Risk Freshness in an AVCDL Context (AVCDL elaboration document)
+
+Threat Modeling Vocabulary (capture of 11 May 2011 blog post)
+https://web.archive.org/web/20161101093537/https://www.cigital.com/blog/threat-modeling-vocabulary/ 
+
+Threat Modeling Glossary Diagram (for above blog post capture)
+https://www.synopsys.com/blogs/software-security/wp-content/uploads/2015/08/threat-modeling-glossary-diagram.jpg
