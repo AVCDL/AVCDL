@@ -1,0 +1,47 @@
+00:00 Title
+00:09 Training Path
+00:39 Introduction
+00:48 Threat Modeling Process
+01:03 Model Creation Activity
+02:46 Idealized DFD
+05:01 Preferred DFD
+06:03 Example
+06:14 Block View
+06:25 Level 1 DFD
+09:57 Level 2 DFD
+13:13 Level 3 DFD
+15:18 Documenting
+16:32 Level 1 DFD - IDs
+17:58 Level 2 DFDs - IDs
+18:07 Level 3 DFD - IDs
+18:17 Initial Entries
+19:08 Threat Model Entity Attributes
+19:23 Resource Atributes 1
+23:40 Resource Attributes 2
+24:59 Process Attributes 1
+28:42 Process Attributes 2
+29:55 Interactor Attributes 1
+30:28 Interactor Attributes 2
+30:40 Boundary Attributes 1
+32:08 Boundary Attributes 2
+32:59 Data Flow Attributes 1
+35:38 Data Flow Attributes 2
+37:12 OS-centric DFDs
+38:06 OS - Filesystem
+39:20 OS - IPC Manager
+39:35 OS - Serial Driver
+39:53 OS - Network Manager
+40:14 OS - Network Driver
+40:48 Networking DFDs
+41:15 Networking
+41:36 Workflow DFDs
+42:22 Initialization - Core Service
+43:05 Initialization - Console Interface
+43:12 Core Service Configuration
+43:18 Normal Operation
+43:27 Recap
+44:02 Example Materials
+44:15 AVCDL on GitHub
+44:35 AVCDL on YouTube
+44:53 Next Steps
+45:25 References

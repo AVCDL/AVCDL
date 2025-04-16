@@ -1,0 +1,6 @@
+Threat Modeling – Model Creation (AVCDL tertiary document)
+
+AVCDL threat modeling model template (AVCDL template)
+
+Guide to Data-Centric System Threat Modeling
+https://csrc.nist.gov/publications/detail/sp/800-154/draft  
