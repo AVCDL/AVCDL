@@ -1,0 +1,41 @@
+Systems and software engineering - Software lifecycle processes
+https://en.wikipedia.org/wiki/ISO/IEC_12207 
+
+Systems and software engineering - System lifecycle processes
+https://en.wikipedia.org/wiki/ISO/IEC_15288 
+
+Road vehicles – Functional safety
+https://en.wikipedia.org/wiki/ISO_26262 
+
+Secure Software Development for Autonomous Vehicles
+https://www.sae.org/standards/content/iso/sae21434/
+
+Microsoft Security Development Lifecycle (SDL) - simplified implementation
+http://download.microsoft.com/download/F/7/D/F7D6B14F-0149-4FE8-A00F-0B9858404D85/Simplified%20Implementation%20of%20the%20SDL.doc 
+
+NHTSA Cybersecurity Best Practices for the Safety of Modern Vehicles
+https://www.nhtsa.gov/staticfiles/nvs/pdf/812333_CybersecurityForModernVehicles.pdf 
+
+NICE Cybersecurity Workforce Framework (NCWF)
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181r1.pdf 
+
+Secure Software Development Framework (SSDF)
+https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04232020.pdf
+
+How much do bugs cost to fix during each phase of the SDLC?
+https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sdlc-phase/ 
+
+Path to Improve Product Quality, Reliability and Customer Satisfaction
+https://ieeexplore.ieee.org/document/497665
+
+AVCDL (GitHub)
+https://github.com/nutonomy/AVCDL 
+
+AVCDL (YouTube)
+https://youtube.com/@AVCDL 
+
+AVCDL Introductory Blog Posts
+https://github.com/nutonomy/AVCDL/tree/main/background_material/blog_posts 
+
+UN Regulation No. 155 - Cyber security and cyber security management system
+https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security 
