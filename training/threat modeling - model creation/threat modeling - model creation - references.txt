@@ -1,4 +1,4 @@
-Threat Modeling – Model Creation (AVCDL tertiary document)
+Threat Modeling Model Creation Procedure (AVCDL tertiary document)
 
 AVCDL threat modeling model template (AVCDL template)
 
