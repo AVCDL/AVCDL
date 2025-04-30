@@ -1,0 +1,12 @@
+AVCDL primary document
+
+Attack Surface Analysis Model Creation Procedure (AVCDL tertiary document)
+
+AVCDL attack surface analysis model template (AVCDL template)
+
+Guide to Data-Centric System Threat Modeling
+https://csrc.nist.gov/publications/detail/sp/800-154/draft  
+
+System Back (Bill Bradford, CC BY 2.0)
+https://www.flickr.com/photos/41894183508@N01/3759951495
+https://creativecommons.org/licenses/by/2.0/
