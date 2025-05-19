@@ -42,7 +42,7 @@ We've written a set of documents that elaborate on the **AVCDL**, its implementa
 
 ## Certification Material
 
-There is documentation relating to the use of the **AVCDL** in the context of **ISO/SAE 21434**, **ISO 26262**, and **UNECE WP.29** certification. You can find them [here](./distribution/reference_documents/certification_documents).
+There is documentation relating to the use of the **AVCDL** in the context of technical standard and regulatory certification. You can find them [here](./distribution/reference_documents/certification_documents).
 
 ## Training Material
 
