@@ -2,6 +2,13 @@
 
 The directory tree contains material created to support certification efforts based on the **AVCDL**.
 
+## General
+
+There are general certification-relevant **AVCDL** documents.
+
+* [AVCDL Standards Cross Reference](./AVCDL%20Standards%20Cross%20Reference.pdf)
+* [AVCDL Traceability](./AVCDL%20Traceability.pdf)
+
 ## ISO/SAE 21434
 
 **ISO/SAE 21434** (Road Vehicles - Cybersecurity Engineering) is the primary standard that the **AVCDL** supports.
@@ -28,6 +35,7 @@ The directory tree contains material created to support certification efforts ba
 **UN R155** (Uniform provisions concerning the approval of vehicles with regards to cyber security and cyber security management system) has cybersecurity requirements and guidance that the **AVCDL** supports.
 
 * [AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment](./AVCDL%20Phase%20Requirement%20Product%20UNECE%20WP.29%20R155%20Work%20Product%20Fulfillment.pdf)
+* [R155 Items Failure Conditions](./R155%20Items%20Failure%20Conditions.pdf)
 
 ### Notes
 
