@@ -36,6 +36,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **threat modeling - model creation** [[video]](https://youtu.be/7PGn668PueY) [[supporting material]](./threat%20modeling%20-%20model%20creation/)
 <br/> This training covers the threat modeling model creation activity.
 
+**threat modeling - model analysis** [[video]](https://youtu.be/mDtPxa9gSG8) [[supporting material]](./threat%20modeling%20-%20model%20analysis/)
+<br/> This training covers the threat modeling model analysis activity.
+
 ## Supply Chain
 
 The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.
@@ -72,3 +75,6 @@ The following diagram shows the **AVCDL** supply chain training path. The highli
 
 **threat modeling - model creation** [[video]](https://youtu.be/7PGn668PueY) [[supporting material]](./threat%20modeling%20-%20model%20creation/)
 <br/> This training covers the threat modeling model creation activity.
+
+**threat modeling - model analysis** [[video]](https://youtu.be/mDtPxa9gSG8) [[supporting material]](./threat%20modeling%20-%20model%20analysis/)
+<br/> This training covers the threat modeling model analysis activity.
