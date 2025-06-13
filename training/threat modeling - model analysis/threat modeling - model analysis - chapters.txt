@@ -1,0 +1,33 @@
+00:00 Title
+00:09 Training Path
+00:42 Introduction
+00:49 Threat Modeling Process
+01:02 Model Analysis Activity
+01:28 Example
+01:38 Block Diagram to DFDs
+01:50 Model Details
+02:06 Generalized Cybersecurity Approach
+02:54 Applicable Cybersecurity Requirements
+04:59 Updating DFDs
+05:06 Level 1 DFD
+05:37 Level 2 DFD
+06:02 Level 3 DFD
+06:21 Filesystem
+06:32 Core Service / Console Interface Initialization
+06:48 Core Service Configuration
+06:57 Normal Operation
+08:33 Normal Operation - End-to-End
+08:57 Entity Updates
+09:57 Analysis
+10:02 Methodology
+10:35 OS DFDs
+10:57 Workflow DFDs
+11:36 Normal Operation Analysis
+14:56 Issues
+16:20 Recap
+16:28 Practical Approach
+18:28 Example Materials
+18:48 AVCDL on GitHub
+19:09 AVCDL on YouTube
+19:25 Next Steps
+19:58 References

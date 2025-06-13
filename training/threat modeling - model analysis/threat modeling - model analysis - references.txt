@@ -1,0 +1,17 @@
+AVCDL (GitHub)
+https://github.com/AVCDL/AVCDL
+
+Cybersecurity Engineering Approach (AVCDL secondary document)
+
+Element Cybersecurity Relevancy (AVCDL secondary document)
+
+Security Requirements Taxonomy (AVCDL secondary document)
+
+Threat Modeling – Analysis Procedure (AVCDL tertiary document)
+
+AVCDL threat modeling model template (AVCDL template)
+
+AVCDL threat modeling analysis template (AVCDL template)
+
+Guide to Data-Centric System Threat Modeling
+https://csrc.nist.gov/publications/detail/sp/800-154/draft  
