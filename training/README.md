@@ -39,6 +39,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **threat modeling - model analysis** [[video]](https://youtu.be/mDtPxa9gSG8) [[supporting material]](./threat%20modeling%20-%20model%20analysis/)
 <br/> This training covers the threat modeling model analysis activity.
 
+**threat modeling - threat candidate triage** [[video]](https://youtu.be/lxCctD4V_MU) [[supporting material]](./threat%20modeling%20-%20threat%20candidate%20triage/)
+<br/> This training covers the threat modeling - threat candidate triage activity.
+
 ## Supply Chain
 
 The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.
@@ -78,3 +81,6 @@ The following diagram shows the **AVCDL** supply chain training path. The highli
 
 **threat modeling - model analysis** [[video]](https://youtu.be/mDtPxa9gSG8) [[supporting material]](./threat%20modeling%20-%20model%20analysis/)
 <br/> This training covers the threat modeling model analysis activity.
+
+**threat modeling - threat candidate triage** [[video]](https://youtu.be/lxCctD4V_MU) [[supporting material]](./threat%20modeling%20-%20threat%20candidate%20triage/)
+<br/> This training covers the threat modeling - threat candidate triage activity.

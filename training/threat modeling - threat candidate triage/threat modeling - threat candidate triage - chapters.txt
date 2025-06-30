@@ -1,0 +1,24 @@
+00:00 Title
+00:09 Training Path
+00:39 Introduction
+00:46 Threat Modeling Process
+00:57 Model Analysis Activity
+01:48 Example
+01:56 Block Diagram
+02:26 Level 1 DFD
+02:45 Analysis
+02:51 Normal Operation
+03:07 Focus on Trust Differential
+03:39 Analysis Results
+03:52 Triage
+03:57 Methodology
+04:35 Determination
+05:58 Preliminary Severity
+07:52 Example Triage
+11:40 Recap
+11:50 Summary
+13:04 Example Materials
+13:18 AVCDL on GitHub
+13:38 AVCDL on YouTube
+13:54 Next Steps
+14:20 References
