@@ -37,6 +37,12 @@ There are general certification-relevant **AVCDL** documents.
 * [AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment](./AVCDL%20Phase%20Requirement%20Product%20UNECE%20WP.29%20R155%20Work%20Product%20Fulfillment.pdf)
 * [R155 Items Failure Conditions](./R155%20Items%20Failure%20Conditions.pdf)
 
+## NHTSA Cybersecurity Best Practices
+
+**Cybersecurity Best Practices for the Safety of Modern Vehicles - Updated 2022** (National Highway Traffic Safety Administration’s non-binding and voluntary guidance to the automotive industry for improving motor vehicle cybersecurity) has recommentations that the **AVCDL** supports.
+
+* [AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment](./AVCDL%20NHTSA%20Cybersecurity%20Best%20Practices%20Fulfillment.pdf)
+
 ### Notes
 
 1. This document contains excerpts from the ISO standard and is only available upon request to valid holders of the standard.
