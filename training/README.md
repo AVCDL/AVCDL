@@ -15,6 +15,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **incremental AVCDL adoption** [[video]](https://youtu.be/gA5rflBB8EM) [[supporting material]](./incremental%20AVCDL%20adoption/)
 <br/> This training covers a recommended path to incremental adoption of the AVCDL.
 
+**secure design principles** [[video]](https://youtu.be/W_0oVIrcaqU) [[supporting material]](./secure%20design%20principles/)
+<br/> This training covers the AVCDL recommended cybersecurity design principles.
+
 **threat prioritization** [[video]](https://youtu.be/Km5bK6ou-8I) [[supporting material]](./threat%20prioritization/)
 <br/> This training covers methodology for threat prioritization recommended in the AVCDL.
 

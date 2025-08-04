@@ -1,0 +1,47 @@
+00:00 Title
+00:08 Training Path
+00:20 Introduction
+01:05 Principles
+02:05 Modularize
+02:45 Refactoring
+04:16 Decomposition
+05:20 Minimize Surface Area
+05:33 Surface Area
+06:51 More Info
+07:05 Isolate Security
+07:19 Isolate Security Data
+08:00 Isolate Security Processes
+08:33 Isolate Privilege
+08:40 Isolate Privilege - Process to Resource
+08:59 Isolate Privilege - Threads to Resource
+09:43 Isolate Privilege - Thread Managed Resource
+10:17 Isolate Privilege - Process Managed Resource
+10:49 Use Least Privilege
+10:54 Use Lease Privilege - Example
+12:13 Use Hierarchical Trust
+12:24 Entities
+13:04 Trust Traversal
+13:57 Trust Levels Visualized
+15:13 Limit Lifetimes
+15:18 Resource Analog
+17:20 Use Standards-based Cryptography
+17:43 Consult Your Product Cybersecurity SME
+18:12 Use Adaptive Cryptography
+18:45 Crypto Agility
+19:17 Cryptography Variables
+19:50 Transport Layer Security
+21:46 Use Trusted Communication Channels
+22:09 Trusted Channel
+24:05 Enable Auditing
+24:15 Data Log vs. Audit Log
+25:54 Degrade as Necessary
+26:23 Prioritize Features
+27:20 Feature-level Granularity
+27:38 Degradation Example
+30:49 Summary
+30:55 Take Aways
+31:49 Further Reading
+32:00 AVCDL on GitHub
+32:19 AVCDL on YouTube
+32:33 Next Steps
+32:48 References
