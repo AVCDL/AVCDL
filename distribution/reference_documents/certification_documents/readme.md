@@ -39,7 +39,7 @@ There are general certification-relevant **AVCDL** documents.
 
 ## NHTSA Cybersecurity Best Practices
 
-**Cybersecurity Best Practices for the Safety of Modern Vehicles - Updated 2022** (National Highway Traffic Safety Administration’s non-binding and voluntary guidance to the automotive industry for improving motor vehicle cybersecurity) has recommentations that the **AVCDL** supports.
+**Cybersecurity Best Practices for the Safety of Modern Vehicles - Updated 2022** (National Highway Traffic Safety Administration's non-binding and voluntary guidance to the automotive industry for improving motor vehicle cybersecurity) has recommentations that the **AVCDL** supports.
 
 * [AVCDL Phase Requirement Product UNECE WP.29 R155 Work Product Fulfillment](./AVCDL%20NHTSA%20Cybersecurity%20Best%20Practices%20Fulfillment.pdf)
 
