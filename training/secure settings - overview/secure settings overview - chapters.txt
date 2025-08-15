@@ -1,0 +1,21 @@
+00:00 Title
+00:07 Training Path
+00:29 Introduction
+01:59 Workflow
+02:06 Process Workflow
+02:23 Per Tool Activities
+02:34 Cybersecurity-relevant Tools
+02:56 Identify Options
+03:53 NIST Bug Classes
+04:53 Categorize Options
+05:20 Cybersecurity Severity Categories
+07:22 Per Element Activities
+07:42 Select Options
+10:21 Apply Options
+11:07 Recap
+11:19 Summary
+11:48 Further Reading
+11:59 AVCDL on GitHub
+12:19 AVCDL on YouTube
+12:33 Next Steps
+12:53 References

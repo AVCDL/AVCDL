@@ -27,6 +27,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **security requirements** [[video]](https://youtu.be/QASGnIHdrOQ) [[supporting material]](./security%20requirements/)
 <br/> This training covers how cybersecurity requirements are created and used within the AVCDL.
 
+**secure settings - overview** [[video]](https://youtu.be/T3xVdo1KBNA) [[supporting material]](./secure%20settings%20-%20overview/)
+<br/> This training provides an overview of the secure settings process.
+
 **attack surface analysis** [[video]](https://youtu.be/020juNobpr4) [[supporting material]](./attack%20surface%20analysis/)
 <br/> This training covers how attack surface analysis is preformed within the AVCDL.
 

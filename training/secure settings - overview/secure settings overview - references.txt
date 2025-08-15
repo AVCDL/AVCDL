@@ -1,0 +1,19 @@
+AVCDL primary document
+
+Secure Settings Document (AVCDL secondary document)
+
+NIST SP 800-128 Guide for Security-Focused Configuration Management of Information Systems
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-128.pdf 
+
+NIST SP 800-231 Bugs Framework (BF): Formalizing Cybersecurity Weaknesses and Vulnerabilities
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-231.pdf
+
+SSL SL9000J (72ch) @ The Cutting Room Recording Studios, NYC
+Rebecca Wilson - originally posted to Flickr as Vicariously (CC BY-2.0)
+https://commons.wikimedia.org/w/index.php?curid=11992757 
+https://creativecommons.org/licenses/by/2.0/ 
+
+Recording with London Symphony Orchestra
+Claudia Yang (CC BY-SA 4.0)
+https://commons.wikimedia.org/wiki/File:Recording_with_London_Symphony_Orchestra.jpg
+https://creativecommons.org/licenses/by-sa/4.0/deed.en 
