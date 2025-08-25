@@ -120,7 +120,7 @@
         <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-53" value="triage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2090" y="-1150" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-54" value="to issue tracking system" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-54" value="to threat ranking process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1730" y="-1375" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-58" value="instrumented element&lt;div&gt;test&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
@@ -188,7 +188,7 @@
         <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-64" value="&lt;span&gt;&lt;span style=&quot;background-color: rgb(249, 247, 237);&quot;&gt;development&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;SME&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3120" y="-1620" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKe_tlwUV6iR5VZkbrAi-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="XKe_tlwUV6iR5VZkbrAi-2" target="yQsGv1jXG-6Aqpy_V8Ou-47">
+        <mxCell id="XKe_tlwUV6iR5VZkbrAi-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" source="XKe_tlwUV6iR5VZkbrAi-2" target="yQsGv1jXG-6Aqpy_V8Ou-47" edge="1">
           <mxGeometry x="0.6471" relative="1" as="geometry">
             <mxPoint x="-2642.5" y="-1370" as="targetPoint" />
             <mxPoint as="offset" />
@@ -198,10 +198,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKe_tlwUV6iR5VZkbrAi-2" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;security&lt;br&gt;&amp;nbsp; &amp;nbsp;SME&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XKe_tlwUV6iR5VZkbrAi-2" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;security&lt;br&gt;&amp;nbsp; &amp;nbsp;SME&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2675" y="-1620" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XKe_tlwUV6iR5VZkbrAi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" target="yQsGv1jXG-6Aqpy_V8Ou-47">
+        <mxCell id="XKe_tlwUV6iR5VZkbrAi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" parent="1" target="yQsGv1jXG-6Aqpy_V8Ou-47" edge="1">
           <mxGeometry x="0.6471" relative="1" as="geometry">
             <mxPoint x="-2612.5" y="-1370" as="targetPoint" />
             <mxPoint as="offset" />
@@ -212,7 +212,7 @@
             <mxPoint x="-2570" y="-1560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XKe_tlwUV6iR5VZkbrAi-4" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;devops&lt;br&gt;&amp;nbsp; &amp;nbsp;SME&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XKe_tlwUV6iR5VZkbrAi-4" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;devops&lt;br&gt;&amp;nbsp; &amp;nbsp;SME&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2585" y="-1620" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
