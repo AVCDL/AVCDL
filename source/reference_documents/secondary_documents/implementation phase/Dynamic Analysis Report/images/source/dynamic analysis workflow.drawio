@@ -120,8 +120,8 @@
         <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-53" value="triage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-2090" y="-1150" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-54" value="to threat ranking process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1730" y="-1375" width="60" height="40" as="geometry" />
+        <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-54" value="to threat prioritization process" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-1730" y="-1375" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yQsGv1jXG-6Aqpy_V8Ou-58" value="instrumented element&lt;div&gt;test&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
           <mxGeometry x="-2515" y="-1405" width="80" height="100" as="geometry" />
