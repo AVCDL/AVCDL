@@ -1,0 +1,22 @@
+00:00 Title
+00:09 Training Path
+00:34 Introduction
+01:27 Types and Tools
+01:36 Dynamic Analysis Types
+02:57 Memory Error Detection Tools
+03:33 Workflow
+03:43 Process Workflow
+04:06 Activities
+04:12 Establish Settings
+05:30 Secure Settings
+05:45 Instrument Element
+06:35 Perform Analysis
+08:12 Triage
+09:23 Dynamic Analysis Report
+10:49 Recap
+10:56 Summary
+11:26 Further Reading
+11:37 AVCDL on GitHub
+11:57 AVCDL on YouTube
+12:13 Next Steps
+12:22 References
