@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="QKzyrc4g6RaY9JLKFoWH">
+    <mxGraphModel dx="2977" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xWcPTrAozEWbAX66kopU-1" value="&lt;font&gt;Low&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=light-dark(#a7e3b3, #ededed);fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xWcPTrAozEWbAX66kopU-3" value="&lt;font&gt;Medium&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=light-dark(#fffab2, #ededed);fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xWcPTrAozEWbAX66kopU-4" value="&lt;font&gt;High&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=light-dark(#e38194, #ededed);fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xWcPTrAozEWbAX66kopU-5" value="&lt;font&gt;May Do&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=light-dark(#a7e3b3, #ededed);fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xWcPTrAozEWbAX66kopU-6" value="&lt;font&gt;Must Do&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=light-dark(#e38194, #ededed);fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="500" y="600" width="420" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
