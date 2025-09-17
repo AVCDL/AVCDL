@@ -1,0 +1,13 @@
+AVCDL primary document
+
+Secure Settings Document (AVCDL secondary document)
+
+Secure Settings - Identify Options Procedure (AVCDL tertiary document)
+
+AVCDL tool cybersecurity options template (AVCDL template)
+
+NIST SP 800-231 Bugs Framework (BF): Formalizing Cybersecurity Weaknesses and Vulnerabilities
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-231.pdf
+
+Bugs Framework (BF) Taxonomy
+https://usnistgov.github.io/BF/info/bf-classes/overview/ 

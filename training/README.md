@@ -30,6 +30,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **secure settings - overview** [[video]](https://youtu.be/T3xVdo1KBNA) [[supporting material]](./secure%20settings%20-%20overview/)
 <br/> This training provides an overview of the secure settings process.
 
+**secure settings - identify options** [[video]](https://youtu.be/wJm8amDJWVA) [[supporting material]](./secure%20settings%20-%20identify%20options/)
+<br/> This training covers the secure settings option identification activity.
+
 **attack surface analysis** [[video]](https://youtu.be/020juNobpr4) [[supporting material]](./attack%20surface%20analysis/)
 <br/> This training covers how attack surface analysis is preformed within the AVCDL.
 
