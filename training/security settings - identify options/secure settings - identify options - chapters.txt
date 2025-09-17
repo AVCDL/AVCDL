@@ -1,84 +1,27 @@
-TITLE: secure settings - identify options - chapters
-FCM: NON-DROP FRAME
-
-001  001      V     C        01:00:00:00 01:00:00:01 01:00:00:00 01:00:00:01  
- |C:ResolveColorRed |M:Title |D:1
-
-002  001      V     C        01:00:09:05 01:00:09:06 01:00:09:05 01:00:09:06  
- |C:ResolveColorRed |M:Training Path |D:1
-
-003  001      V     C        01:00:34:09 01:00:34:10 01:00:34:09 01:00:34:10  
- |C:ResolveColorRed |M:Introduction |D:1
-
-004  001      V     C        01:00:41:05 01:00:41:06 01:00:41:05 01:00:41:06  
- |C:ResolveColorRed |M:Secure Settings Process |D:1
-
-005  001      V     C        01:00:52:08 01:00:52:09 01:00:52:08 01:00:52:09  
- |C:ResolveColorRed |M:Identify Options Activity |D:1
-
-006  001      V     C        01:01:07:09 01:01:07:10 01:01:07:09 01:01:07:10  
- |C:ResolveColorRed |M:Cybersecurity-relevant Tools |D:1
-
-007  001      V     C        01:01:32:23 01:01:33:00 01:01:32:23 01:01:33:00  
- |C:ResolveColorRed |M:Example |D:1
-
-008  001      V     C        01:02:04:15 01:02:04:16 01:02:04:15 01:02:04:16  
- |C:ResolveColorRed |M:Cover Sheet |D:1
-
-009  001      V     C        01:02:56:11 01:02:56:12 01:02:56:11 01:02:56:12  
- |C:ResolveColorRed |M:References |D:1
-
-010  001      V     C        01:03:34:10 01:03:34:11 01:03:34:10 01:03:34:11  
- |C:ResolveColorRed |M:Options |D:1
-
-011  001      V     C        01:04:23:14 01:04:23:15 01:04:23:14 01:04:23:15  
- |C:ResolveColorRed |M:Relevance |D:1
-
-012  001      V     C        01:04:39:01 01:04:39:02 01:04:39:01 01:04:39:02  
- |C:ResolveColorRed |M:NIST Bug Classes |D:1
-
-013  001      V     C        01:04:48:19 01:04:48:20 01:04:48:19 01:04:48:20  
- |C:ResolveColorRed |M:NIST Bug Class Categories |D:1
-
-014  001      V     C        01:05:06:10 01:05:06:11 01:05:06:10 01:05:06:11  
- |C:ResolveColorRed |M:NIST Bug Classes - Input |D:1
-
-015  001      V     C        01:05:54:22 01:05:54:23 01:05:54:22 01:05:54:23  
- |C:ResolveColorRed |M:NIST Bug Classes - Memory |D:1
-
-016  001      V     C        01:06:37:19 01:06:37:20 01:06:37:19 01:06:37:20  
- |C:ResolveColorRed |M:NIST Bug Classes - Data |D:1
-
-017  001      V     C        01:08:18:05 01:08:18:06 01:08:18:05 01:08:18:06  
- |C:ResolveColorRed |M:Bug Class |D:1
-
-018  001      V     C        01:08:36:04 01:08:36:05 01:08:36:04 01:08:36:05  
- |C:ResolveColorRed |M:Category |D:1
-
-019  001      V     C        01:08:46:19 01:08:46:20 01:08:46:19 01:08:46:20  
- |C:ResolveColorRed |M:Notes |D:1
-
-020  001      V     C        01:09:33:22 01:09:33:23 01:09:33:22 01:09:33:23  
- |C:ResolveColorRed |M:Recap |D:1
-
-021  001      V     C        01:09:53:10 01:09:53:11 01:09:53:10 01:09:53:11  
- |C:ResolveColorRed |M:Summary |D:1
-
-022  001      V     C        01:10:08:23 01:10:09:00 01:10:08:23 01:10:09:00  
- |C:ResolveColorRed |M:Example Materials |D:1
-
-023  001      V     C        01:10:19:12 01:10:19:13 01:10:19:12 01:10:19:13  
- |C:ResolveColorRed |M:Further Reading |D:1
-
-024  001      V     C        01:10:31:19 01:10:31:20 01:10:31:19 01:10:31:20  
- |C:ResolveColorRed |M:AVCDL on GitHub |D:1
-
-025  001      V     C        01:10:51:18 01:10:51:19 01:10:51:18 01:10:51:19  
- |C:ResolveColorRed |M:AVCDL on YouTube |D:1
-
-026  001      V     C        01:11:07:01 01:11:07:02 01:11:07:01 01:11:07:02  
- |C:ResolveColorRed |M:Next Steps |D:1
-
-027  001      V     C        01:11:35:18 01:11:35:19 01:11:35:18 01:11:35:19  
- |C:ResolveColorRed |M:References |D:1
-
+00:00 Title
+00:09 Training Path
+00:34 Introduction
+00:41 Secure Settings Process
+00:52 Identify Options Activity
+01:07 Cybersecurity-relevant Tools
+01:32 Example
+02:04 Cover Sheet
+02:56 References
+03:34 Options
+04:23 Relevance
+04:39 NIST Bug Classes
+04:48 NIST Bug Class Categories
+05:06 NIST Bug Classes - Input
+05:54 NIST Bug Classes - Memory
+06:37 NIST Bug Classes - Data
+08:18 Bug Class
+08:36 Category
+08:46 Notes
+09:33 Recap
+09:53 Summary
+10:08 Example Materials
+10:19 Further Reading
+10:31 AVCDL on GitHub
+10:51 AVCDL on YouTube
+11:07 Next Steps
+11:35 References
