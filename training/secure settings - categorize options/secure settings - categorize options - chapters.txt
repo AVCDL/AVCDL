@@ -1,0 +1,21 @@
+00:00 Title
+00:09 Training Path
+00:37 Introduction
+00:44 Secure Settings Process
+00:55 Categorize Options Activity
+01:14 Example
+01:42 Cover Sheet
+02:08 Severity Categories
+02:19 Establishing Categories
+03:59 Categories
+05:25 Options - Category
+05:45 Report
+05:59 Human-readable Report
+07:42 Recap
+07:51 Summary
+08:21 Example Materials
+08:32 Further Reading
+08:44 AVCDL on GitHub
+09:04 AVCDL on YouTube
+09:19 Next Steps
+09:45 References
