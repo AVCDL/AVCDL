@@ -1,0 +1,21 @@
+00:00 Title 
+00:10 Training Path 
+00:39 Introduction 
+00:46 Dynamic Analysis Process 
+00:57 Establish Settings Activity 
+01:28 Secure Settings Process 
+01:45 Secure Settings Material 
+01:54 Secure Settings - Overview 
+02:07 Secure Settings - Identify Options 
+02:22 Secure Settings - Categorize Options 
+02:39 Secure Settings - Select Options 
+02:58 Secure Settings - Apply Options 
+03:17 Dynamic Analysis Considerations 
+03:27 Considerations 
+04:55 Recap 
+05:01 Summary 
+05:30 Further Reading 
+05:42 AVCDL on GitHub 
+06:02 AVCDL on YouTube 
+06:17 Next Steps 
+06:31 References 

@@ -63,6 +63,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **dynamic analysis - overview** [[video]](https://youtu.be/OEWdrsuewgs) [[supporting material]](./dynamic%20analysis%20-%20overview/)
 <br/> This training provides an overview of the dynamic analysis process.
 
+**dynamic analysis - Establish Settings** [[video]](https://youtu.be/ggvG31L4G2c) [[supporting material]](./dynamic%20analysis%20-%20establish%20settings/)
+<br/> This training covers the dynamic analysis settings establishment activity.
+
 ## Supply Chain
 
 The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.

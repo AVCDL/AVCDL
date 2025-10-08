@@ -1,0 +1,34 @@
+AVCDL primary document
+
+Dynamic Analysis Report (AVCDL secondary document)
+
+Dynamic Analysis - Establish Settings Procedure (AVCDL tertiary document)
+
+Secure Settings Document (AVCDL secondary document)
+
+Secure Settings - Identify Options Procedure (AVCDL tertiary document)
+
+Secure Settings - Categorize Options Procedure (AVCDL tertiary document)
+
+Secure Settings - Select Options Procedure (AVCDL tertiary document)
+
+Secure Settings - Apply Options Procedure (AVCDL tertiary document)
+
+AVCDL tool cybersecurity options template (AVCDL template)
+
+AVCDL element-specific tool cybersecurity options template (AVCDL template)
+
+Address Sanitizer [LLVM]
+https://clang.llvm.org/docs/AddressSanitizer.html  
+
+Thread Sanitizer [LLVM]
+https://clang.llvm.org/docs/ThreadSanitizer.html 
+
+Memory Sanitizer [LLVM]
+https://clang.llvm.org/docs/MemorySanitizer.html  
+
+Leak Sanitizer [LLVM]
+https://clang.llvm.org/docs/LeakSanitizer.html  
+
+Undefined Behavior Sanitizer [LLVM]
+https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html 
