@@ -1,0 +1,18 @@
+00:00 Title
+00:10 Training Path
+00:41 Introduction
+00:48 Dynamic Analysis Process
+00:59 Instrument Element Activity
+03:00 Approach
+03:06 Methodology
+06:39 Dynamic Analysis Best Practices
+06:43 Best Practices
+07:52 Run-time Considerations
+07:59 Considerations
+10:14 Recap
+10:22 Summary
+11:13 Further Reading
+11:26 AVCDL on GitHub
+11:46 AVCDL on YouTube
+12:01 Next Steps
+12:16 References

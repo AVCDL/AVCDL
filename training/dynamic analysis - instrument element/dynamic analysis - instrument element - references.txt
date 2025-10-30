@@ -1,0 +1,13 @@
+AVCDL primary document
+
+Dynamic Analysis Report (AVCDL secondary document)
+
+Dynamic Analysis Establish Settings Procedure (AVCDL tertiary document)
+
+Dynamic Analysis Instrument  Settings Procedure (AVCDL tertiary document)
+
+Google Sanitizers GitHub (archive)
+https://github.com/google/sanitizers 
+
+ASanity: On Bug Shadowing by Early ASan Exits 
+https://wootconference.org/papers/woot23-paper34.pdf 
