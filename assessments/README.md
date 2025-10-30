@@ -34,7 +34,7 @@ You would generally take an actual product to be certified. When you do that, th
 
 It takes a long time to get any type of certification. In order to ensure that you have the best chance of attaining certification, you need to work with the certification body to establish that your processes don’t have any holes. No one want to have to go back to their management telling them that they can’t be certified because they forgot to do something that will take them 9 months to backfill.
 
-Having the **AVCDL** assessed, not only against the technical standard (**ISO/SAE 21434**) but also **UNECE WP.29 R155**, ensures that we know all the bits and pieces required in order to achieve certification.
+Having the **AVCDL** assessed, not only against the technical standard (**ISO/SAE 21434**) but also **UN R155**, ensures that we know all the bits and pieces required in order to achieve certification.
 
 ### **The AVCDL Provides a Sense of Scope**
 
