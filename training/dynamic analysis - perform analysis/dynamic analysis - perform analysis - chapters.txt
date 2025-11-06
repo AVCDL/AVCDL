@@ -1,0 +1,14 @@
+00:00 Title
+00:09 Training Path
+00:45 Introduction
+00:53 Dynamic Analysis Process
+01:05 Perform Analysis Activity
+01:37 Runtime Considerations
+02:06 Considerations
+03:35 Recap
+03:43 Summary
+04:13 Further Reading
+04:24 AVCDL on GitHub
+04:44 AVCDL on YouTube
+04:59 Next Steps
+05:13 References
