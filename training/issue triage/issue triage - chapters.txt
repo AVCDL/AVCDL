@@ -1,0 +1,15 @@
+00:00 Title
+00:08 Training Path
+00:31 Introduction
+01:56 Workflow
+03:58 Triage
+04:02 Record
+06:45 Determination
+09:50 Preliminary Severity
+11:44 Report
+13:40 Recap
+13:48 Summary
+14:45 Further Reading
+16:02 AVCDL on GitHub
+16:22 AVCDL on YouTube
+16:38 References

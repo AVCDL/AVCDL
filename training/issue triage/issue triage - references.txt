@@ -1,0 +1,27 @@
+AVCDL (primary document)
+
+Threat Prioritization Process (AVCDL secondary document)
+
+Attack Surface Analysis Report (AVCDL secondary document)
+
+Attack Surface Triage Procedure (AVCDL tertiary document)
+
+Threat Modeling Report (AVCDL secondary document)
+
+Threat Modeling Triage Procedure (AVCDL tertiary document)
+
+Fuzz Testing Report (AVCDL secondary document)
+
+Static Analysis Report (AVCDL secondary document)
+
+Dynamic Analysis Report (AVCDL secondary document)
+
+Dynamic Analysis Triage Procedure (AVCDL tertiary document)
+
+Penetration Testing Report (AVCDL secondary document)
+
+Still life of document stack (Designed by Freepix)
+https://www.freepik.com/free-photo/still-life-documents-stack_95018659.htm 
+
+Ring binder used for stored documents (Designed by Freepix)
+https://www.freepik.com/free-photo/ring-binder-used-stored-documents_24998928.htm 
