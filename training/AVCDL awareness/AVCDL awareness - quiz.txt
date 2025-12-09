@@ -1,0 +1,17 @@
+1. What is a Cybersecurity Management System?
+*   a. a set of policies, processes, and procedures for identifying and managing cybersecurity risks - used to build security into a product
+    b. a way of organizing and people-managing cybersecurity employees
+    c. a standard for defining cybersecurity technologies
+
+2. What is the AVCDL?
+*   a. an open source cybersecurity development lifecycle that complies ISO/SAE 21434 and UN R155
+    b. a regulation that requires Torc to build cybersecurity into its products
+    c. an all or nothing set of processes everyone at development engineer must master
+
+3. Select all sources of input AVCDL traces to
+*   a. NIST's Secure Software Development Framework
+    b. Google's security team posts
+*   c. ISO/SAE 21434
+    d. ISO 26262
+*   e. Microsoft's Security Development Lifecycle
+    f. the Automotive Information Sharing and Analysis Center

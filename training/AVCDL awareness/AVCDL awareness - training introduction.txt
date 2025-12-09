@@ -1,0 +1,7 @@
+This training is an overview of a cybersecurity development lifecycle capable of securing any safety-critical, cyber-physical system.
+
+It has been crafted specifically to comply with the multiple international standards and regulations.
+
+The training provides background on how and why the lifecycle was created to clarify its form and function.
+
+Unless you work in product cybersecurity you are not expected to understand in the depth the full scope of the lifecycle, and will be assisted by cybersecurity in a manner more targeted to your role.
