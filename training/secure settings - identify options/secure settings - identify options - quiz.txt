@@ -1,0 +1,19 @@
+1. Select those who participate in security option identification:
+*   a. security SME
+    b. safety SME
+    c. development SME
+    d. devops SME
+
+2.  Which of the following is NOT a NIST bug class:
+    a. input
+*   b. output
+    c. data
+    d. memory
+
+3. So long as the option is well-understood, a reason for its inclusion is unnecessary.
+    a. true
+*   b. false
+
+4. References supporting the choice of options should always be provided.
+*   a. true
+    b. false
