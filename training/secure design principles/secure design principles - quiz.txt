@@ -1,0 +1,24 @@
+1. Which of the following is NOT a secure design principle?
+    a. isolate security
+    b. enable auditing
+ *  c. use open source libraries
+    d. limit lifetimes
+
+2.  Which of the following are of interest when considering surface area?
+    a. protocols
+    b. parameters
+    c. processes
+    d. all of the above
+ *  e. A and C
+
+3. From a cybersecurity perspective, why do we limit lifetimes?
+    a. to be able to run more processes
+ *  b. to minimize the attack window of opportunity
+    c. to have fewer things to keep track of
+    d. to reduce testing
+
+4. Which of the following is NOT a cryptographic variable?
+ *  a. quantum elasticity
+    b. algorithm
+    c. key strength
+    d. cryptographic primitive
