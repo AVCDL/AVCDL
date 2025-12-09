@@ -1,0 +1,23 @@
+1. What role does the supplier's self-reported process maturity play in negotiating the CIA?
+    a. it plays no role in negotiating a CIA
+*   b. it provides us a means to determine if a supplier is mature enough to be responsible for a process without additional mitigations or support
+    c. it clarifies who at the supplier needs additional training that must be captured in the CIA
+    d. none of the above
+
+2. Why is supplier process maturity established on an as is basis?
+    a. to be punitive
+    b. to demonstrate why AVCDL is better than what the supplier currently does
+*   c. to identify gaps in a supplier's processes
+    d. both A and B
+
+3. When is a vendor CMM form delivered in response to an RFI considered complete?
+    a. when an unbiased third party provides a certification letter referencing the form
+    b. the form is never complete because measuring the vendor's maturity is a continuous activity
+    c. when the vendor provides the form to the customer
+*   d. after the customer's security SME has determined the form is free of deficiencies and uploads it to the document management system
+
+4. How does the customer's security SME evaluate the vendor's CMM form?
+*   a. by requesting evidence from the vendor that demonstrates that processes meet the claimed maturity levels
+    b. the customer's SME should trust the vendor without spending valuable time on evaluations
+*   c. by measuring evidence against process requirements documented in the AVCDL primary document
+    d. both A and C

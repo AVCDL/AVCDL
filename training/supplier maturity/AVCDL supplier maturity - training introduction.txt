@@ -1,0 +1,7 @@
+This training covers how supplier self-reported cybersecurity maturity is handled in the AVCDL.
+
+You will learn:
+* The purpose behind gathering a supplier's process maturity levels
+* How maturity levels are measured and what maturity levels are appropriate for a safety critical product
+* How to use an existing template to measure process maturity and evaluate the results
+* The means AVCDL provides to measure a vendor's maturity over time
