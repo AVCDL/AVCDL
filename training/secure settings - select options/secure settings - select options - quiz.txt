@@ -1,0 +1,19 @@
+1. Select those who participate in option selection:
+*   a. security SME
+    b. safety SME
+*   c. development SME
+    d. devops SME
+
+2.  Select the reasons why an option may be rejected:
+    a. the option is already in use
+*   b. the element's source is not modifiable
+*   c. the option is experimental
+*   d. the option consumes excessive time
+
+3. The security options qualification report is a document of record.
+*   a. true
+    b. false
+
+4. Development participation in the activity is optional.
+    a. true
+*   b. false
