@@ -1,0 +1,7 @@
+This training covers how to map a supplier's cybersecurity processes to AVCDL processes.
+
+You will learn:
+* The importance of mapping a supplier's cybersecurity lifecycle to AVCDL
+* How the mapping supports requirements tailoring and CIA definition
+* How to use an existing template to map a lifecycle to AVCDL and evaluate the results
+* How to address process gaps that exist between a supplier's cybersecurity lifecycle and AVCDL

@@ -1,0 +1,20 @@
+1. What is the purpose of mapping a supplier's cybersecurity processes to AVCDL?
+    a. to find cases where a supplier's cybersecurity lifecycle is missing coverage required by AVCDL
+    b. to ensure that the customer understands what coverage is provided by a supplier's cybersecurity lifecycle and how the supplier's cybersecurity processes translate to AVCDL
+    c. to define a way to accomplish both cybersecurity lifecycles in parallel
+*   d. both A and B
+
+2. What should occur if the supplier's cybersecurity lifecycle does not cover a process required by AVCDL?
+*   a. the supplier should either (1) fill the gap with an AVCDL process or an equivalent process of their own design and update the mapping or (2) acknowledge the gap will be filled at an appropriate later date
+    b. the supplier should abandon their cybersecurity lifecycle and adopt AVCDL instead
+    c. the supplier does not need to do anything if Torc has recorded the cybersecurity process gap as a risk in its risk register
+
+3. When is cybersecurity process mapping considered verified?
+    a. when an independent third party has provided a certification letter
+*   b. when no cybersecurity process gaps remain unacknowledged by the supplier
+    c. when the customer's cybersecurity SME has declared the mapping complete
+
+4. How does the customer's cybersecurity SME determine if a mapping between a supplier's cybersecurity process and an AVCDL process is valid?
+    a. by ensuring the colors used in the overlapping spreadsheet cells match the correct meaning in the key
+    b. by asking the supplier's cybersecurity SME to verbally describe each cybersecurity process to determine if they are equivalent
+*   c. by reviewing the cybersecurity process documentation to ensure the process achieves the same or more coverage as the comparable AVCDL process
