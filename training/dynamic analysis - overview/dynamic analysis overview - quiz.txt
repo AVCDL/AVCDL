@@ -1,0 +1,20 @@
+1. Which of the following is NOT a type of dynamic analysis?
+    a. invariant inference
+    b. program slicing
+ *  c. penetration testing
+    d. fault localization
+
+2.  Dynamic analysis tests should be:
+    a. orthogonal
+    b. timely
+    c. temporally-decoupled
+    d. all of the above
+ *  e. A and B
+
+3. Dynamic analysis tests should avoid leveraging existing unit tests.
+    a. true
+ *  b. false
+
+4. When creating dyanmic analysis tests, execution time is a consideration.
+ *  a. true
+    b. false
