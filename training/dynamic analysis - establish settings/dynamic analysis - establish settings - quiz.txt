@@ -1,0 +1,19 @@
+1. Select those who participate in establishing the dyanmic analysis settings:
+*   a. security SME
+*   b. safety SME
+    c. development SME
+*   d. devops SME
+
+2.  Which of the following is NOT an activity in the settings establishment process:
+    a. categorize options
+    b. apply options
+    c. identify options
+*   d. all are valid activities
+
+3. Why does the devops SME apply the settings to the build?
+    a. cybersecurity SMEs don't understand how builds work
+ *  b. devops SMEs own the build system
+
+4. The dynamic analysis establish settings activity is an encapsulation of the secure settings process.
+ *  a. true
+    b. false
