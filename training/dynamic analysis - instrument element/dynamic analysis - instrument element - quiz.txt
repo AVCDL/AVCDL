@@ -1,0 +1,19 @@
+1. Select those who participate in the dynamic analysis element instrumentation:
+*   a. security SME
+    b. safety SME
+*   c. development SME
+    d. devops SME
+
+2.  Which of the following is NOT a dynamic analysis best practice:
+    a. keep tests separate
+    b. avoid high-churn elements
+*   c. ensure overlapping coverage
+    d. start small
+
+3. Memory-related dynamic analysis tests require the use of instrumented runtime libraries.
+*   a. true
+    b. false
+
+4. The devops SME is a required participant in the element instrumentation activity.
+    a. true
+*   b. false
