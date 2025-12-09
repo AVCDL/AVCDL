@@ -1,0 +1,7 @@
+This training covers the AVCMDS (Autonomous Vehicle Cybersecurity Manufacturer Disclosure Statement) as used within the context of the AVCDL.
+
+You will learn:
+• What an AVCMDS is
+• How the process of completing an AVCMDS helps you gather manufacturer and component information from suppliers
+• Various uses for the collected information
+• How to use an existing template to gather and evaluate the data

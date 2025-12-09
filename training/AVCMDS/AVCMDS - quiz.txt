@@ -1,0 +1,21 @@
+1. Selected all cases where a completed AVCMDS is helpful:
+*   a. tailoring cybersecurity requirements
+    b. replacing a penetration test
+*   c. informing supplier selection
+*   d. identifying a suppliers base cybersecurity practices
+
+2. Who should assess the supplier's practices to fill out the AVCMDS?
+    a. whoever is available
+    b. an unbiased third party
+    c. a development engineer
+*   d. a cybersecurity SME at the supplier
+
+3. Why is the AVCMDS specific to a particular manufacturer and device?
+*   a. the analysis is "as is", which requires a focus on a specific manufacturer and device
+    b. to allow Torc to analyze a potential future state of the device using the AVCDMS process
+    c. to comply with current NHTSA requirements
+
+4. How are filled out AVCDMS documents evaluated?
+    a. by having an unbiased third party audit the process used to complete the document before it is considered complete
+*   b. by having the customer's cybersecurity SME review the document before acceptance, which may include asking the supplier for evidence to confirm their answers
+    c. the document is not evaluated
