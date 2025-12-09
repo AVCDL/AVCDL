@@ -1,0 +1,13 @@
+1. It's important to pre-flight the build pipeline before deploying dynamic analysis tests.
+*   a. true
+    b. false
+
+2.  Which of the following is NOT a dynamic analysis runtime consideration:
+    a. termination on error
+*   b. previous test runs
+    c. cybersecurity side-effects
+    d. issue occlusion
+
+3. The perform analysis activity can be done manually.
+*   a. true
+    b. false
