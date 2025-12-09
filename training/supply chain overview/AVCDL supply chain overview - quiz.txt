@@ -1,0 +1,19 @@
+1. How are work distribution and data sharing provisions established between customers and suppliers?
+    a. verbally
+*   b. by completing a Cybersecurity Interface Agreement
+    c. by executing a Master Service Agreement
+
+2. How are UN R155 and ISO/SAE 21434 related?
+*   a. ISO/SAE 21434 serves as the technical underpinning for UN R155
+    b. UN R155 compliments ISO/SAE 21434 by providing the regulator's voice
+    c. they are not related
+
+3. Where are the requirements for the Cybersecurity Interface Agreement specified?
+    a. UN R155
+*   b. ISO/SAE 21434
+    c. AVCDL
+
+4. Select the AVCDL documents shared across companies:
+*   a. primary document
+*   b. secondary documents
+    c. company-specific cybersecurity policies

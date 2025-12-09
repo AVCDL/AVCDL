@@ -1,0 +1,8 @@
+This training provides an overview of how the AVCDL addresses the supply chain.
+
+You will learn:
+* UN R155's top level structure
+* How UN R155 applies to supply chain management
+* What underlying ISO/SAE 21434 work products and requirements exist
+* How AVCDL maps to ISO/SAE 21434
+* What types of document sets exist within AVCDL
