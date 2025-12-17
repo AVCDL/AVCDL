@@ -1,0 +1,22 @@
+AVCDL primary document
+
+Attack Surface Analysis Report (AVCDL secondary document)
+
+Attack Surface Analysis Analysis Procedure (AVCDL tertiary document)
+
+AVCDL attack surface analysis model template (AVCDL template)
+
+AVCDL attack surface analysis issues template (AVCDL template)
+
+Threat Modeling Report (AVCDL secondary document)
+
+Threat Prioritization Plan (AVCDL secondary document)
+
+Service Name and Transport Protocol Port Number Registry
+https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml   
+
+NIST SP 800-63 Digital Identity Guidelines
+https://www.nist.gov/identity-access-management/nist-special-publication-800-63-digital-identity-guidelines 
+
+RFC 6335: Internet Assigned Numbers Authority (IANA) Procedures for the Management of the Service Name and Transport Protocol Port Number Registry
+https://www.rfc-editor.org/rfc/pdfrfc/rfc6335.txt.pdf 

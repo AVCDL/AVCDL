@@ -1,0 +1,30 @@
+00:00 Title
+00:10 Training Path
+00:43 Introduction
+00:51 Attack Surface Analysis Process
+01:04 Analysis Activity
+01:16 Entities of Interest
+01:50 Block View
+02:14 Entities
+03:00 Analysis
+03:26 Physical Port Questions
+07:12 Logical Port / Protocol Questions
+11:32 Process Questions
+13:02 Example
+13:09 Physical Ports
+13:24 Physical Ports List
+15:32 Logical Ports / Protocols
+15:48 Logical Ports / Protocols List
+18:35 Processes
+18:49 Processes List
+20:19 Issues
+20:25 Categorization
+23:34 Identified Issues
+24:49 Recap
+24:58 Summary
+26:17 Further Reading
+26:29 Example Materials
+26:34 AVCDL on GitHub
+26:54 AVCDL on YouTube
+27:12 Next Steps
+27:27 References

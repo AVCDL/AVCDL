@@ -1,0 +1,17 @@
+1. It's okay to make assumptions when performing the analysis so long as they're documented.
+    a. true
+*   b. false
+
+2.  Which of the following does NOT need to be raised as an issue:
+    a. an unused process
+    b. a protocol using a non-standard logical port
+*   c. a development-only port
+    d. a diagnostic port
+
+3. The attack surface analysis activity can be done manually.
+*   a. true
+    b. false
+
+4. The non-core processes should be suspended when they negatively impact core functionality.
+*   a. true
+    b. false

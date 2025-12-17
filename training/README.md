@@ -51,6 +51,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **attack surface analysis - model creation** [[video]](https://youtu.be/D5e3Atm3tGI) [[supporting material]](./attack%20surface%20analysis%20-%20model%20creation/)
 <br/> This training covers the attack surface analysis model creation activity.
 
+**attack surface analysis - model analysis** [[video]](https://youtu.be/_5R2OucGh9A) [[supporting material]](./attack%20surface%20analysis%20-%20analysis/)
+<br/> This training covers the attack surface analysis model analysis activity.
+
 **threat modeling - overview** [[video]](https://youtu.be/P_9VWDovugw) [[supporting material]](./threat%20modeling%20-%20overview/)
 <br/> This training provides an overview of the threat modeling process.
 
@@ -105,6 +108,9 @@ The following diagram shows the **AVCDL** supply chain training path. The highli
 
 **attack surface analysis - model creation** [[video]](https://youtu.be/D5e3Atm3tGI) [[supporting material]](./attack%20surface%20analysis%20-%20model%20creation/)
 <br/> This training covers the attack surface analysis model creation activity.
+
+**attack surface analysis - model analysis** [[video]](https://youtu.be/_5R2OucGh9A) [[supporting material]](./attack%20surface%20analysis%20-%20analysis/)
+<br/> This training covers the attack surface analysis model analysis activity.
 
 **threat modeling - overview** [[video]](https://youtu.be/P_9VWDovugw) [[supporting material]](./threat%20modeling%20-%20overview/)
 <br/> This training provides an overview of the threat modeling process.
