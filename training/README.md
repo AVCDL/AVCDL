@@ -66,6 +66,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **threat modeling - threat candidate triage** [[video]](https://youtu.be/lxCctD4V_MU) [[supporting material]](./threat%20modeling%20-%20threat%20candidate%20triage/)
 <br/> This training covers the threat modeling - threat candidate triage activity.
 
+**static analysis - overview** [[video]](https://youtu.be/91ucjlW2-LM) [[supporting material]](./static%20analysis%20-%20overview/)
+<br/> This training provides an overview of the static analysis process.
+
 **dynamic analysis - overview** [[video]](https://youtu.be/OEWdrsuewgs) [[supporting material]](./dynamic%20analysis%20-%20overview/)
 <br/> This training provides an overview of the dynamic analysis process.
 

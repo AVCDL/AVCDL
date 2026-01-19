@@ -1,0 +1,20 @@
+1. Which of the following is NOT relevant when performing a static analysis triage?
+    a. addressing tool false positives
+    b. involving development
+ *  c. prioritizing the issues
+    d. filing issues immediately
+
+2.  The static analysis activities include:
+    a. categorize options
+    b. triage
+    c. establish settings
+ *  d. B and C
+    e. none of the above
+
+3. Fixing issues identified during static analysis is far less expensive than doing so in the verification phase.
+ *  a. true
+    b. false
+
+4. It is unnecessary to specify the tool used in the static analysis report.
+    a. true
+ *  b. false

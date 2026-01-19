@@ -1,0 +1,19 @@
+Secure Settings Document (AVCDL secondary document)
+
+Static Analysis Report (AVCDL secondary document)
+
+Static Analysis Results Interchange Format (SARIF) Version 2.1.0
+https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.pdf
+
+Static Program Analysis
+https://en.wikipedia.org/wiki/Static_program_analysis  
+
+PDP-8I wire-wrapped backplane (Dave Fischer - CC BY-SA 3.0)
+https://commons.wikimedia.org/wiki/File:PDP-8I-backplane.jpg 
+https://creativecommons.org/licenses/by-sa/3.0/deed.en 
+
+How much do bugs cost to fix during each phase of the SDLC?
+https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sdlc-phase/   
+
+Path to Improve Product Quality, Reliability and Customer Satisfaction
+https://ieeexplore.ieee.org/document/497665   

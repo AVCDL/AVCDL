@@ -1,0 +1,21 @@
+00:00 Title
+00:09 Training Path
+00:37 Introduction
+02:00 Analysis Mechanism
+02:06 Static Analysis Mechanism
+03:03 Static Analysis Tools
+04:22 Workflow
+04:32 Process Workflow
+04:50 Activities
+04:56 Establish Settings
+05:59 Secure Settings
+06:32 Perform Analysis
+08:26 Triage
+09:36 Static Analysis Report
+11:38 Recap
+11:45 Summary
+12:36 Further Reading
+12:46 AVCDL on GitHub
+13:05 AVCDL on YouTube
+13:21 Next Steps
+13:34 References
