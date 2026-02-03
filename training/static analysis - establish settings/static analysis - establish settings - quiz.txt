@@ -1,0 +1,19 @@
+1. Select those who participate in establishing the static analysis settings:
+*   a. security SME
+*   b. safety SME
+*   c. devops SME
+    d. development SME
+
+2.  Which of the following is NOT reason to select a static analysis option:
+*   a. likelihood of finding no issues
+    b. cybersecurity relevancy
+    c. organizational maturity
+    d. all are valid reasons
+
+3. Performing static analysis is best done on a weekly basis.
+    a. true
+ *  b. false
+
+4. The static analysis establish settings activity is an encapsulation of the secure settings process.
+ *  a. true
+    b. false

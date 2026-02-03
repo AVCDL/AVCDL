@@ -1,0 +1,21 @@
+00:00  Title
+00:09  Training Path
+00:40  Workflow
+00:47  Process Workflow
+00:59  Establish Settings Activity
+01:32  Secure Settings Process
+01:51  Secure Settings Material
+02:01  Secure Settings - Overview
+02:16  Secure Settings - Identify Options
+02:32  Secure Settings - Categorize Options
+02:51  Secure Settings - Select Options
+03:11  Secure Settings - Apply Options
+03:30  Static Analysis Considerations
+03:40  Considerations
+11:10  Recap
+11:15  Summary
+12:34  Further Reading
+12:47  AVCDL on GitHub
+13:06  AVCDL on YouTube
+13:22  Next Steps
+13:35  References

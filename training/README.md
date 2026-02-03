@@ -69,16 +69,19 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **static analysis - overview** [[video]](https://youtu.be/91ucjlW2-LM) [[supporting material]](./static%20analysis%20-%20overview/)
 <br/> This training provides an overview of the static analysis process.
 
+**static analysis - establish settings** [[video]](https://youtu.be/gLDECMWZVKM) [[supporting material]](./static%20analysis%20-%20establish%20settings/)
+<br/> This training covers the static analysis settings establishment activity.
+
 **dynamic analysis - overview** [[video]](https://youtu.be/OEWdrsuewgs) [[supporting material]](./dynamic%20analysis%20-%20overview/)
 <br/> This training provides an overview of the dynamic analysis process.
 
-**dynamic analysis - Establish Settings** [[video]](https://youtu.be/ggvG31L4G2c) [[supporting material]](./dynamic%20analysis%20-%20establish%20settings/)
+**dynamic analysis - establish settings** [[video]](https://youtu.be/ggvG31L4G2c) [[supporting material]](./dynamic%20analysis%20-%20establish%20settings/)
 <br/> This training covers the dynamic analysis settings establishment activity.
 
-**dynamic analysis - Instrument Element** [[video]](https://youtu.be/J8ZYfN_Jm4U) [[supporting material]](./dynamic%20analysis%20-%20instrument%20element/)
+**dynamic analysis - instrument element** [[video]](https://youtu.be/J8ZYfN_Jm4U) [[supporting material]](./dynamic%20analysis%20-%20instrument%20element/)
 <br/> This training covers the dynamic analysis element instrumentation activity.
 
-**dynamic analysis - Perform Analysis** [[video]](https://youtu.be/GTmebYss9YY) [[supporting material]](./dynamic%20analysis%20-%20perform%20analysis/)
+**dynamic analysis - perform analysis** [[video]](https://youtu.be/GTmebYss9YY) [[supporting material]](./dynamic%20analysis%20-%20perform%20analysis/)
 <br/> This training covers the dynamic analysis perform analysis activity.
 
 ## Supply Chain
