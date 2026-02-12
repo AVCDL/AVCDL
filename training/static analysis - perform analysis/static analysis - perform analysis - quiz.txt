@@ -1,0 +1,19 @@
+1. Who should the cybersecurity SME consult with regarding build system impact from static analysis:
+    a. cybersecurity SME
+    b. safety SME
+*   c. devops SME
+    d. development SME
+
+2.  Which of the following is NOT reason to monitor the behavior of static analysis after it is added to the build:
+    a. excessive time usage
+*   b. too many issues detected
+    c. excessive storage usage
+    d. all are valid reasons
+
+3. Static analysis can only be performed in an automated fashion.
+    a. true
+*   b. false
+
+4. The primary reason for using SARIF output is because it is supported by compilers.
+    a. true
+*   b. false

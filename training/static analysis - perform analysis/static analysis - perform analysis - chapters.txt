@@ -1,0 +1,14 @@
+00:00 Title
+00:10 Training Path
+00:44 Workflow
+00:52 Process Workflow
+01:04 Establish Settings Activity
+01:28 Runtime Considerations
+01:47 Considerations
+04:01 Recap
+04:08 Summary
+05:19 Further Reading
+05:31 AVCDL on GitHub
+05:51 AVCDL on YouTube
+06:07 Next Steps
+06:22 References

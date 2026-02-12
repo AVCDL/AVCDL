@@ -1,0 +1,10 @@
+AVCDL primary document
+
+Static Analysis Report (AVCDL secondary document)
+
+Static Analysis - Perform Analysis Procedure (AVCDL tertiary document)
+
+Secure Settings - Apply Options Procedure (AVCDL tertiary document)
+
+Static Analysis Results Interchange Format (SARIF) Version 2.1.0
+https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.pdf 

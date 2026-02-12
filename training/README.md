@@ -72,6 +72,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **static analysis - establish settings** [[video]](https://youtu.be/gLDECMWZVKM) [[supporting material]](./static%20analysis%20-%20establish%20settings/)
 <br/> This training covers the static analysis settings establishment activity.
 
+**static analysis - perform analysis** [[video]](https://youtu.be/5Z-lpLTtu5Y) [[supporting material]](./static%20analysis%20-%20perform%20analysis/)
+<br/> This training covers the static analysis perform analysis activity.
+
 **dynamic analysis - overview** [[video]](https://youtu.be/OEWdrsuewgs) [[supporting material]](./dynamic%20analysis%20-%20overview/)
 <br/> This training provides an overview of the dynamic analysis process.
 
