@@ -4,7 +4,7 @@
 *   c. devops SME
     d. development SME
 
-2.  Which of the following is NOT reason to monitor the behavior of static analysis after it is added to the build:
+2.  Which of the following is NOT a reason to monitor the behavior of static analysis after it is added to the build:
     a. excessive time usage
 *   b. too many issues detected
     c. excessive storage usage
