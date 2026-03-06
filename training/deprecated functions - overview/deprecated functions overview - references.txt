@@ -1,0 +1,15 @@
+Currently Used Deprecated Functions Document (AVCDL secondary document)
+
+Threat Prioritization Plan (AVCDL secondary document)
+
+Report Generation (AVCDL elaboration document)
+
+Static Analysis Results Interchange Format (SARIF) Version 2.1.0
+https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.pdf
+
+Square edge razor (unattributed) [CC BY-SA 3.0]
+https://creativecommons.org/licenses/by-sa/3.0/ 
+https://commons.wikimedia.org/wiki/File:Square_edge_razor.JPG 
+
+Oscillating electric razon (Bill Ebbesen) [public domain]
+https://commons.wikimedia.org/wiki/File:Oscillating_electric_razor.jpg 
