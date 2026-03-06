@@ -1,0 +1,18 @@
+00:00 Title
+00:10 Training Path
+00:37 Introduction
+03:01 Workflow
+03:09 Process Workflow
+03:30 Activities
+03:36 Identify Functions
+04:23 Incorporate Scan
+05:14 Perform Scan
+06:07 Triage
+07:11 Report
+08:18 Recap
+08:27 Summary
+09:01 Further Reading
+09:13 AVCDL on GitHub
+09:34 AVCDL on YouTube
+09:50 Next Steps
+10:03 References

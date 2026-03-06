@@ -1,0 +1,17 @@
+1. Which of the following is NOT part of the deprecated function handling process?
+    a. reporting identified deprecated functions
+    b. triaging currently used deprecated functions
+    c. scanning for identified deprecated functions
+*   d. assessing performance impact
+
+2.  Only commercial tools which provide deprecated function scanning capabilities may be used.
+    a. true
+ *  b. false
+
+3. Deprecated function scanning may be initiated manually.
+ *  a. true
+    b. false
+
+4. All deprecated functions requiring treatment must go through the threat prioritization process.
+    a. true
+ *  b. false
