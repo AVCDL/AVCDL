@@ -1,0 +1,16 @@
+AVCDL primary document
+
+Currently Used Deprecated Functions Document (AVCDL secondary document)
+
+AVCDL deprecated functions catalog template (AVCDL template)
+
+Report Generation (AVCDL elaboration document)
+
+ISO/IEC 9899-1999 cover (public domain)
+https://commons.wikimedia.org/wiki/File:ISO-IEC-9899-1999-cover.png 
+
+MISRA C++:2023 cover
+https://misra.org.uk/app/uploads/2023/11/Misra_CPP-2023.png  
+
+SDL List of Banned Functions
+https://github.com/intel/safestringlib/wiki/SDL-List-of-Banned-Functions   

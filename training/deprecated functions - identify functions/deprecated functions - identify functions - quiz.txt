@@ -1,0 +1,19 @@
+1. Which of the following is NOT an authoritative source for deprecated functions:
+    a. industry recommendations
+    b. best practices
+*   c. search engine results
+    d. technical standards
+
+2.  Which of the following is NOT an important aspect of identifying deprecated functions:
+    a. consider solution alternatives
+    b. provide clear reasoning
+    c. identify resources for each function
+*   d. all are important aspects
+
+3. Only the latest version of the language needs to be considered when providing a deprecated function replacement suggestion.
+    a. true
+ *  b. false
+
+4. Each deprecated function should provide reference to its authoritative sources.
+ *  a. true
+    b. false

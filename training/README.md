@@ -69,6 +69,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **deprectated functions - overview** [[video]](https://youtu.be/EHZttozf7sA) [[supporting material]](./deprecated%20functions%20-%20overview/)
 <br/> This training provides an overview of the process for handling deprecated functions.
 
+**deprectated functions - identify functions** [[video]](https://youtu.be/oRZ_S9j9FQc) [[supporting material]](./deprecated%20functions%20-%20identify%20functions/)
+<br/> This training covers the deprecated function identification activity.
+
 **static analysis - overview** [[video]](https://youtu.be/91ucjlW2-LM) [[supporting material]](./static%20analysis%20-%20overview/)
 <br/> This training provides an overview of the static analysis process.
 
