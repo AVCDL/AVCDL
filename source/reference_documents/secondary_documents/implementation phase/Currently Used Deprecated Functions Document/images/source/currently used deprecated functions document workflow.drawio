@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
   <diagram id="sruLN3PUJWMz3BnSayqV" name="Page-1">
-    <mxGraphModel dx="7249" dy="3498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7098" dy="3518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,7 +219,16 @@
             <mxPoint x="-4120" y="-1955" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DX7clv3d5LW-fEo0L6Gl-115" parent="0" style="locked=1;" value="colors" />
+        <mxCell id="7PC_2fTEI0fxR5pmPcHd-3" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;dashed=1;" value="&lt;div&gt;updated&lt;/div&gt;&lt;div&gt;build settings&lt;br&gt;report&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="-4540" y="-1855" as="geometry" />
+        </mxCell>
+        <mxCell id="7PC_2fTEI0fxR5pmPcHd-4" edge="1" parent="1" source="DX7clv3d5LW-fEo0L6Gl-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" target="7PC_2fTEI0fxR5pmPcHd-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-4480" y="-1955" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DX7clv3d5LW-fEo0L6Gl-115" parent="0" style="locked=1;" value="colors" visible="0" />
         <mxCell id="DX7clv3d5LW-fEo0L6Gl-111" parent="DX7clv3d5LW-fEo0L6Gl-115" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#F9F7ED;" value="F9F7ED" vertex="1">
           <mxGeometry height="60" width="150" x="-4920" y="-1480" as="geometry" />
         </mxCell>
