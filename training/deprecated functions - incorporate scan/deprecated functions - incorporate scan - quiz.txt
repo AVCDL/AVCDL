@@ -1,0 +1,19 @@
+1. Which of the following AVCDL processes addresses updated build settings report:
+    a. Incident Response
+    b. Report Generation
+*   c. Secure Settings
+    d. none of the above
+
+2.  Which of the following are required output of the deprecated functions scan:
+*   a. location
+    b. description
+    c. replacement
+    d. all are required
+
+3. The scan incorporation activity always generates a report.
+    a. true
+*   b. false
+
+4. Because deprecated function scanning is a lightweight activity, build timing is not a consideration.
+    a. true
+*   b. false

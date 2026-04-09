@@ -1,0 +1,16 @@
+00:00 Title
+00:10 Training Path
+00:40 Workflow
+00:48 Process Workflow
+00:59 Incorporate Scan Activity
+02:47 Scanning Tool
+03:52 Example
+04:11 Deprecated Functions - Formatting
+06:29 Recap
+06:36 Summary
+07:27 Example Materials
+07:39 Further Reading
+07:58 AVCDL on GitHub
+08:18 AVCDL on YouTube
+08:34 Next Steps
+08:47 References

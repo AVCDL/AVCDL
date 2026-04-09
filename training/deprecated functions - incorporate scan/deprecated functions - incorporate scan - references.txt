@@ -1,0 +1,11 @@
+AVCDL primary document
+
+Currently Used Deprecated Functions Document (AVCDL secondary document)
+
+Secure Settings Document (AVCDL secondary document)
+
+AVCDL deprecated functions catalog template (AVCDL template)
+
+Deprecated Functions - Identify Functions Procedure (AVCDL tertiary document)
+
+Secure Settings - Apply Options Procedure (AVCDL tertiary document)
