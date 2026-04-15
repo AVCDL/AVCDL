@@ -1,0 +1,19 @@
+1. Who should the cybersecurity SME consult with regarding build system impact from deprecated function scanning:
+*   a. devops SME
+    b. cybersecurity SME
+    c. safety SME
+    d. development SME
+
+2.  Which of the following is NOT a reason to monitor the behavior of deprecated function scanning after it is added to the build:
+    a. excessive time usage
+    b. excessive storage usage
+*   c. too many issues detected
+    d. all are valid reasons
+
+3. Deprecated function scanning can only be performed in an automated fashion.
+    a. true
+*   b. false
+
+4. The primary reason for using SARIF output is because it is supported by compilers.
+    a. true
+*   b. false

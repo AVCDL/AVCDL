@@ -75,6 +75,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **deprectated functions - incorporate scan** [[video]](https://youtu.be/fgMqiwNJfi4) [[supporting material]](./deprecated%20functions%20-%20incorporate%20scan/)
 <br/> This training covers the deprecated function scan incorporation activity.
 
+**deprectated functions - perform scan** [[video]](https://youtu.be/trSHM9JrFHU) [[supporting material]](./deprecated%20functions%20-%20perform%20scan/)
+<br/> This training covers the deprecated function scanning activity.
+
 **static analysis - overview** [[video]](https://youtu.be/91ucjlW2-LM) [[supporting material]](./static%20analysis%20-%20overview/)
 <br/> This training provides an overview of the static analysis process.
 
