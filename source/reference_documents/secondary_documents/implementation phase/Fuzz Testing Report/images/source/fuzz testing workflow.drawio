@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36">
   <diagram id="sruLN3PUJWMz3BnSayqV" name="Page-1">
-    <mxGraphModel dx="2152" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2038" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
         <mxCell id="VlJCmAJol8S5DLCw6uIL-38" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="&lt;span&gt;&lt;span style=&quot;background-color: rgb(249, 247, 237);&quot;&gt;development&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;SME&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="-175" y="125" as="geometry" />
         </mxCell>
-        <mxCell id="VlJCmAJol8S5DLCw6uIL-60" parent="0" value="long reject" />
+        <mxCell id="VlJCmAJol8S5DLCw6uIL-60" parent="0" value="long reject" visible="0" />
         <mxCell id="VlJCmAJol8S5DLCw6uIL-62" edge="1" parent="VlJCmAJol8S5DLCw6uIL-60" source="VlJCmAJol8S5DLCw6uIL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="db3MNwc5aLGeDNZlsfTl-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -256,20 +256,20 @@
             <mxPoint x="-25" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VlJCmAJol8S5DLCw6uIL-61" parent="0" value="short reject" visible="0" />
+        <mxCell id="VlJCmAJol8S5DLCw6uIL-61" parent="0" value="short reject" />
         <mxCell id="VlJCmAJol8S5DLCw6uIL-18" edge="1" parent="VlJCmAJol8S5DLCw6uIL-61" source="VlJCmAJol8S5DLCw6uIL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;dashed=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="925" y="465" />
-              <mxPoint x="865" y="465" />
+              <mxPoint x="925" y="480" />
+              <mxPoint x="865" y="480" />
             </Array>
             <mxPoint x="930" y="425" as="sourcePoint" />
-            <mxPoint x="865" y="465" as="targetPoint" />
+            <mxPoint x="865" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VlJCmAJol8S5DLCw6uIL-19" connectable="0" parent="VlJCmAJol8S5DLCw6uIL-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;reject&lt;/font&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.827" as="geometry">
-            <mxPoint x="-21" y="25" as="offset" />
+            <mxPoint x="-25" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
