@@ -4,17 +4,17 @@ https://en.wikipedia.org/wiki/ISO/IEC_12207
 Systems and software engineering - System lifecycle processes
 https://en.wikipedia.org/wiki/ISO/IEC_15288 
 
-Road vehicles – Functional safety
+Road vehicles - Functional safety
 https://en.wikipedia.org/wiki/ISO_26262 
 
 Secure Software Development for Autonomous Vehicles
 https://www.sae.org/standards/content/iso/sae21434/
 
 Microsoft Security Development Lifecycle (SDL) - simplified implementation
-http://download.microsoft.com/download/F/7/D/F7D6B14F-0149-4FE8-A00F-0B9858404D85/Simplified%20Implementation%20of%20the%20SDL.doc 
+https://www.microsoft.com/en-us/download/details.aspx?id=12379
 
 NHTSA Cybersecurity Best Practices for the Safety of Modern Vehicles
-https://www.nhtsa.gov/staticfiles/nvs/pdf/812333_CybersecurityForModernVehicles.pdf 
+https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-tag.pdf
 
 NICE Cybersecurity Workforce Framework (NCWF)
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-181r1.pdf 
