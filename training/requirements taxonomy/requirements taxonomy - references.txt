@@ -13,7 +13,7 @@ A Vulnerable System: The History of Information Security in the Computer Age
 https://www.amazon.com/dp/1501758942 
 
 The Protection of Information in Computer Systems
-http://cs.uccs.edu/~cs691/designPrinciples/ProtectionOfInformationInComputerSystems1975.pdf 
+https://www.cs.virginia.edu/~evans/cs551/saltzer/
 
 On the implementation of security measures in information systems
 https://ecommons.cornell.edu/bitstream/handle/1813/5964/71-120.pdf 
@@ -58,9 +58,9 @@ Security Quality Requirements Engineering (SQUARE) Methodology
 https://resources.sei.cmu.edu/asset_files/technicalreport/2005_005_001_14594.pdf 
 
 A Taxonomy of Software Security Requirements
-https://repositorio.unal.edu.co/handle/unal/24281 
+https://ru.dgb.unam.mx/items/438ea1c3-cf4b-49af-9874-c2d9168d93a2
 
-ISO/IEC-7498-2, Information technology – Open Systems Interconnection – Basic Reference Model — Part 2: Security Architecture
+ISO/IEC-7498-2, Information technology - Open Systems Interconnection - Basic Reference Model — Part 2: Security Architecture
 https://www.iso.org/standard/14256.html 
 
 ITU TR X-800, Security Architecture for Open Systems Interconnection for CCITT Applications
