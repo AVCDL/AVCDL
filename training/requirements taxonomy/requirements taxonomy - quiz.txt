@@ -1,0 +1,17 @@
+1. The cybersecurity properties discussion was settled in 1975 with the Saltzer and Schroeder paper on The Protection of Information of Computer Systems.
+    a. true
+*   b. false
+
+2.  Which of the following does NOT an asset state:
+    a. in use
+    b. at rest
+*   c. off site
+    d. in motion
+
+3. If the data is unavailable, none of the other cybersecurity properties matter.
+*   a. true
+    b. false
+
+4. Once you address cybersecurity at the application layer, you're done.
+    a. true
+*   b. false
