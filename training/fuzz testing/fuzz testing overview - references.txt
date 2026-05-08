@@ -1,0 +1,29 @@
+AVCDL primary document
+
+Fuzz Testing Report (AVCDL secondary document)
+
+Secure Settings Document (AVCDL secondary document)
+
+Attack Surface Analysis Report (AVCDL secondary document)
+
+Threat Prioritization Process (AVCDL secondary document)
+
+Report Generation (AVCDL elaboration document)
+
+Static Analysis Results Interchange Format (SARIF) Version 2.1.0
+https://docs.oasis-open.org/sarif/sarif/v2.1.0/os/sarif-v2.1.0-os.pdf
+
+Common Weakness Enumeration (CWE)
+https://cwe.mitre.org/
+
+Fuzzing
+https://en.wikipedia.org/wiki/Fuzzing
+
+Unit testing
+https://en.wikipedia.org/wiki/Unit_testing
+
+Roulette ball [Ralf Roletschek] (CC-BY-SA 3.0)
+https://commons.wikimedia.org/wiki/File:13-02-27-spielbank-wiesbaden-by-RalfR-094.jpg 
+
+Setup at the start of a chess game [Bubba73] (CC-BY-SA 3.0)
+https://commons.wikimedia.org/wiki/File:13-02-27-spielbank-wiesbaden-by-RalfR-094.jpg 

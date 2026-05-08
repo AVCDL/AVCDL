@@ -1,0 +1,19 @@
+1. Which of the following is NOT an activity of fuzz testing?
+    a. creating the test
+*   b. prioritizing the issues
+    c. triaging the results
+    d. establishing the build settings
+
+2.  Fuzz test failure modes include:
+    a. thrown exception
+    b. program crash
+    c. unexpected return value
+*   d. all of the above
+
+3. Fuzz testing is based on an entirely deterministic methodology.
+    a. true
+*   b. false
+
+4. When creating fuzz tests, execution time is a consideration.
+*   a. true
+    b. false

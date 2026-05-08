@@ -1,0 +1,21 @@
+00:00 Title
+00:09 Training Path
+00:36 Introduction
+01:59 Approach
+02:13 Cybersecurity Approach
+03:07 Workflow
+03:17 Process Workflow
+03:37 Activities
+03:43 Identify Functions
+05:28 Secure Settings
+05:41 Create Test
+06:46 Perform Testing
+08:15 Triage
+09:16 Fuzz Testing Report
+10:31 Recap
+10:39 Summary
+10:57 Further Reading
+11:11 AVCDL on GitHub
+11:32 AVCDL on YouTube
+11:48 Next Steps
+12:02 References

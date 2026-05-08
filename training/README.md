@@ -99,6 +99,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **dynamic analysis - perform analysis** [[video]](https://youtu.be/GTmebYss9YY) [[supporting material]](./dynamic%20analysis%20-%20perform%20analysis/)
 <br/> This training covers the dynamic analysis perform analysis activity.
 
+**fuzz testing - overview** [[video]](https://youtu.be/hOGVohmKK5M) [[supporting material]](./fuzz%20testing%20-%20overview/)
+<br/> This training provides an overview of the fuzz testing process.
+
 ## Supply Chain
 
 The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.
