@@ -1,0 +1,19 @@
+1. Select those who participate in the threat prioritization process:
+*   a. security SME
+*   b. risk SME
+    c. development SME
+    d. devops SME
+
+2.  Which of the following is NOT a risk domain covered in this training:
+    a. operation
+    b. finance
+    c. safety
+*   d. cybersecurity
+
+3. CVSS is an appropriate likelihood quantization for configuration threats.
+    a. true
+ *  b. false
+
+4. The choice of quantization can impact wether a threat is considered controlled.
+ *  a. true
+    b. false
