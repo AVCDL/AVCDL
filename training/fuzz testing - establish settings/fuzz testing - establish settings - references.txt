@@ -1,0 +1,21 @@
+AVCDL primary document
+
+Fuzz Testing Report (AVCDL secondary document)
+
+Fuzz Testing - Establish Settings Procedure (AVCDL tertiary document)
+
+Secure Settings Document (AVCDL secondary document)
+
+Secure Settings - Identify Options Procedure (AVCDL tertiary document)
+
+Secure Settings - Categorize Options Procedure (AVCDL tertiary document)
+
+Secure Settings - Select Options Procedure (AVCDL tertiary document)
+
+Secure Settings - Apply Options Procedure (AVCDL tertiary document)
+
+AVCDL fuzz testing framework options template (AVCDL template)
+
+AVCDL tool cybersecurity options template (AVCDL template)
+
+AVCDL element-specific tool cybersecurity options template (AVCDL template)

@@ -1,0 +1,19 @@
+1. Select Secure Settings process activities that Fuzz Testing settings establishment customizes:
+    a. Apply Options
+*   b. Identify Options
+    c. Select Options
+*   d. Categorize Options
+
+2.  Which of the following is NOT a consideration of the Fuzz Testing settings establishment activity:
+    a. footprint
+    b. test isolation
+    c. execution time
+*   d. all are valid considerations
+
+3. Why have multiple entries for a framework if only the compiler options differ?
+    a. you should only have a single compiler version for any given fuzz testing framework
+ *  b. different element of the system may use different versions of the compiler
+
+4. Only one fuzz testing framework should be considered for application to an element of the system.
+    a. true
+*   b. false

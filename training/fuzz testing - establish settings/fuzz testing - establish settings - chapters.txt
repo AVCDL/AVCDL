@@ -1,0 +1,30 @@
+00:00 Title
+00:09 Training Path
+00:39 Workflow
+00:46 Process Workflow
+00:57 Establish Settings Activity
+01:32 Secure Settings Process
+01:50 Secure Settings Material
+01:59 Secure Settings - Overview
+02:12 Secure Settings - Identify Options
+02:28 Secure Settings - Categorize Options
+02:47 Secure Settings - Select Options
+03:06 Secure Settings - Apply Options
+03:24 Fuzz Testing Customization
+03:48 Secure Settings Process (Fuzz Testing Customization)
+04:39 Example
+05:13 Cover Sheet
+05:25 References Sheet
+05:54 Options Sheet
+08:13 Categories Sheet
+09:24 Options Sheet (Categorized)
+10:21 Fuzz Testing Considerations
+10:31 Considerations
+12:18 Recap
+12:24 Summary
+12:57 Example Materials
+13:08 Further Reading
+13:20 AVCDL on GitHub
+13:40 AVCDL on YouTube
+13:54 Next Steps
+14:09 References
