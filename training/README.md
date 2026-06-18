@@ -105,6 +105,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **fuzz testing - establish settings** [[video]](https://youtu.be/YY7CUzGzbio) [[supporting material]](./fuzz%20testing%20-%20establish%20settings/)
 <br/> This training covers the fuzz testing settings establishment activity.
 
+**fuzz testing - create test** [[video]](https://youtu.be/oKl8M8ln7cg) [[supporting material]](./fuzz%20testing%20-%20create%20test/)
+<br/> This training covers the fuzz test creation activity.
+
 ## Supply Chain
 
 The following diagram shows the **AVCDL** supply chain training path. The highlighted items are have videos available.

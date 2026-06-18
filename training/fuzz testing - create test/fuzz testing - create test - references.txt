@@ -1,0 +1,19 @@
+AVCDL primary document
+
+Fuzz Testing Report (AVCDL secondary document)
+
+Fuzz Testing Establish Settings Procedure (AVCDL tertiary document)
+
+Fuzz Testing Create Test Procedure (AVCDL tertiary document)
+
+Dynamic Analysis Report (AVCDL secondary document)
+
+Secure Settings Document (AVCDL secondary document)
+
+Element Cybersecurity Relevancy (AVCDL secondary document)
+
+An introduction to property based testing
+https://fsharpforfunandprofit.com/pbt/ 
+
+The lazy programmer's guide to writing 1000's of tests
+https://youtu.be/IYzDFHx6QPY?si=p0v9wXF5wS4B2U-0 

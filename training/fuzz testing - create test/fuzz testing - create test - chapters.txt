@@ -1,0 +1,19 @@
+00:00 Title
+00:10 Training Path
+00:41 Workflow
+00:48 Process Workflow
+00:59 Create Test Activity
+02:18 Approach
+02:24 Methodology
+04:48 Unit Test ==> Fuzz Test
+04:53 Unit Test
+06:00 Fuzz Test
+08:21 Fuzz Testing Considerations
+08:26 Considerations
+13:01 Recap
+13:09 Summary
+13:29 Further Reading
+13:41 AVCDL on GitHub
+14:02 AVCDL on YouTube
+14:17 Next Steps
+14:31 References
