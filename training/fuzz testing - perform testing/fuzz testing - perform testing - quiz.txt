@@ -1,0 +1,19 @@
+1. Who should the cybersecurity SME consult with regarding build system issues that occur when performing fuzz testing?
+*   a. devops SME
+    b. cybersecurity SME
+    c. safety SME
+    d. development SME
+
+2.  Which of the following is NOT a consideration when performing the fuzz test:
+    a. cybersecurity side-effects
+*   b. appropriateness of programming language
+    c. issue occlusion
+    d. termination on error
+
+3. The element fuzz test can only be performed in an automated fashion.
+    a. true
+*   b. false
+
+4. Embodying the fuzz testing output using SARIF output allows it to be directly used by IDEs.
+*   a. true
+    b. false

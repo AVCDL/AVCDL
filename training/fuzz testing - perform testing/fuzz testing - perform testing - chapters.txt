@@ -1,0 +1,14 @@
+00:00 Title
+00:10 Training Path
+00:42 Workflow
+00:51 Process Workflow
+01:02 Perform Scan Activity
+01:46 Runtime Considerations
+02:01 Considerations
+03:27 Recap
+03:34 Summary
+04:30 Further Reading
+04:42 AVCDL on GitHub
+05:02 AVCDL on YouTube
+05:18 Next Steps
+05:33 References
