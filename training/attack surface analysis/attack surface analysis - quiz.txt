@@ -1,0 +1,17 @@
+1. It's okay to use any logical port number for your application.
+    a. true
+*   b. false
+
+2.  Which of the following is NOT an attack surface analysis area of interest:
+*   a. permissions
+    b. processes
+    c. ports
+    d. protocols
+
+3. Attack surface analysis is a one-and-done activity.
+    a. true
+*   b. false
+
+4. Attack surface analysis focuses on excessive exposure in all its forms.
+*   a. true
+    b. false

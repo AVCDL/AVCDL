@@ -1,0 +1,18 @@
+1. It's helpful to include diagrams of physical ports when creating the attack surface analysis model.
+*   a. true
+    b. false
+
+2.  Which of the NIST threat modeling activities applies to attack surface analysis model creation:
+*   a. diagram
+    b. identify
+    c. investigate
+    d. mitigate
+    e. validate
+
+3. Physical ports only used for diagnostic purposes are not of interest to an attack surface analysis.
+    a. true
+*   b. false
+
+4. The protocols being used over a port are of interest to an attack surface analysis.
+*   a. true
+    b. false
