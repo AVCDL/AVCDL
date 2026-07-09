@@ -10,4 +10,4 @@ NIST SP 800-231 Bugs Framework (BF): Formalizing Cybersecurity Weaknesses and Vu
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-231.pdf
 
 Bugs Framework (BF) Taxonomy
-https://usnistgov.github.io/BF/info/bf-classes/overview/ 
+https://usnistgov.github.io/BF
