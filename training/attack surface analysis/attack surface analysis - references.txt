@@ -18,7 +18,8 @@ Threat Modeling Vocabulary (capture of 11 May 2011 blog post)
 https://web.archive.org/web/20161101093537/https://www.cigital.com/blog/threat-modeling-vocabulary/ 
 
 Threat Modeling Glossary Diagram (for above blog post capture)
-https://www.synopsys.com/blogs/software-security/wp-content/uploads/2015/08/threat-modeling-glossary-diagram.jpg
+https://www.synopsys.com/blogs/software-security/wp-content/uploads/2015/08/threat-modeling-glossary-diagram.jpg (dead link)
+https://halilozturkci.com/images/microsoft-tehdit-modelleme-araci-ile-guvenli-yazilim-gelisti/1766556337-threat-modeling-glossary-diagram.jpg
 
 Service Name and Transport Protocol Port Number Registry
 https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xml 
