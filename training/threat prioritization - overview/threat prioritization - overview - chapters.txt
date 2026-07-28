@@ -1,0 +1,22 @@
+00:00 Title
+00:09 Training Path
+00:22 Introduction
+01:49 Threat Candidate Sources
+02:00 Sources
+03:58 Workflow
+04:03 Process Workflow
+04:17 Activities
+04:23 Threat Candidate Ranking
+05:04 Threat Candidate Risking
+05:53 Threat Candidate Slicing
+06:49 Multiple Risk Domains
+07:02 Risk Domains
+07:41 Multi-domain Workflow
+08:20 Multiple Risk Domain Consolidation
+09:02 Recap
+09:09 Summary
+09:27 Further Reading
+09:38 AVCDL on GitHub
+09:59 AVCDL on YouTube
+10:15 Next Steps
+10:40 References

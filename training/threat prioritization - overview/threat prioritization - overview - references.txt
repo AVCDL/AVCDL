@@ -1,0 +1,36 @@
+AVCDL (AVCDL primary document)
+
+Incident Response Plan (AVCDL secondary document)
+
+Attack Surface Analysis Report (AVCDL secondary document)
+
+Threat Modeling Report (AVCDL secondary document)
+
+Threat Prioritization Plan (AVCDL secondary document)
+
+Static Analysis Report (AVCDL secondary document)
+
+Dynamic Analysis Report (AVCDL secondary document)
+
+Fuzz Testing Report (AVCDL secondary document)
+
+Penetration Testing Report (AVCDL secondary document)
+
+NIST SP 800-39 - Managing Information Security Risk - Organization, Mission, and Information System View
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-39.pdf
+
+NIST SP 800-30 r1 - Guide for Conducting Risk Assessments
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf  
+
+EVITA D2.3 Security requirements for automotive on-board networks based on dark-side scenarios
+https://zenodo.org/record/1188418/files/EVITAD2.3v1.1.pdf 
+
+Jeff Masin, a one-man band in New York City [slgckgc, CC BY 2.0]
+https://www.flickr.com/photos/slgc/8037345945/
+https://commons.wikimedia.org/w/index.php?curid=47370848 
+
+Orchestra Simfonica București [Alxndrul - own work, CC BY-SA 4.0]
+https://commons.wikimedia.org/w/index.php?curid=47237273 
+
+One man band 1865 [Lemur12 - own work, CC BY-SA 3.0]
+https://commons.wikimedia.org/w/index.php?curid=5527428 

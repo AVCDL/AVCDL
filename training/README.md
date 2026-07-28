@@ -18,8 +18,8 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **secure design principles** [[video]](https://youtu.be/W_0oVIrcaqU) [[supporting material]](./secure%20design%20principles/)
 <br/> This training covers the AVCDL recommended cybersecurity design principles.
 
-**threat prioritization** [[video]](https://youtu.be/Km5bK6ou-8I) [[supporting material]](./threat%20prioritization/)
-<br/> This training covers methodology for threat prioritization recommended in the AVCDL.
+**threat prioritization - overview** [[video]](https://youtu.be/66W4Hn22Q3s) [[supporting material]](./threat%20prioritization%20-%20overview/)
+<br/> This training covers an overview of the threat prioritization process.
 
 **issue triage** [[video]](https://youtu.be/xxjTHjX24rw) [[supporting material]](./issue%20triage/)
 <br/> This training covers general methodology for issue triage.

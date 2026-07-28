@@ -1,0 +1,19 @@
+1. Select those who participate in the threat prioritization process:
+*   a. security SME
+*   b. risk SME
+    c. development SME
+    d. devops SME
+
+2.  Which of the following is NOT a risk domain covered in this training:
+    a. operation
+    b. finance
+    c. safety
+*   d. cybersecurity
+
+3. You don't need to update the threat's source tracker if the threat is dismissed.
+    a. true
+ *  b. false
+
+4. It is important to maintain traceability when consolidating uncontrolled threats identified in multiple domains.
+ *  a. true
+    b. false
