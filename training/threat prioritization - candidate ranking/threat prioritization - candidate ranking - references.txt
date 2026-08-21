@@ -1,0 +1,22 @@
+AVCDL (AVCDL primary document)
+
+Threat Prioritization Plan (AVCDL secondary document)
+
+AVCDL threat candidate ranking template (AVCDL template)
+
+AVCDL threat candidate ranking (SP 800-30) template (AVCDL template)
+
+Common Vulnerability Scoring System
+https://www.first.org/cvss/ 
+
+The Common Configuration Scoring System (CCSS): Metrics for Software Security Configuration Vulnerabilities
+https://nvlpubs.nist.gov/nistpubs/legacy/ir/nistir7502.pdf   
+
+The Common Misuse Scoring System (CMSS): Metrics for Software Feature Misuse Vulnerabilities
+https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=910230  
+
+ISO/SAE 21434:2021 Road vehicles - Cybersecurity engineering
+https://www.iso.org/standard/70918.html 
+
+NIST SP 800-30 r1 - Guide for Conducting Risk Assessments
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 

@@ -1,0 +1,19 @@
+1. Select those who participate in the threat prioritization process:
+*   a. security SME
+    b. risk SME
+    c. development SME
+    d. devops SME
+
+2. An organization must use only a single likelihood rubric for all cybersecurity activities.
+    a. true
+*   b. false
+
+3. It is important to provide a worst case scenario for each threat candiate.
+*   a. true
+    b. false
+    
+4.  Which of the following is NOT a field recorded for each ranked threat candidate:
+    a. a description of the threat
+    b. the element containing the threat candidate
+*   c. the developer responsible for the element containing the threat
+    d. the threat candidate's ID

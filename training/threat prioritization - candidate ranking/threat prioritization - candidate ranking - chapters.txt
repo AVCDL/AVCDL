@@ -1,0 +1,27 @@
+00:00 Title
+00:09 Training Path
+00:29 Workflow
+00:38 Process Workflow
+00:50 Candidate Ranking Activity
+01:24 Likelihood Rubrics
+04:14 Likelihood Quantization
+08:07 800-30 Likelihood Descriptions
+11:02 800-30 Overall Likelihood
+11:57 Example
+12:18 Reference Documents
+13:27 CVSS Quantization Mapping
+14:35 CVSS Quantization Mapping Sample
+15:03 800-30 Quantization Mapping
+15:42 800-30 Quantization Mapping Sample
+16:12 Example System
+17:37 Level 1 DFD
+18:12 Triage Information
+19:02 Ranking
+21:56 Recap
+22:05 Summary
+22:59 Example Materials
+23:13 Further Reading
+23:26 AVCDL on GitHub
+23:48 AVCDL on YouTube
+24:04 Next Steps
+24:32 References
