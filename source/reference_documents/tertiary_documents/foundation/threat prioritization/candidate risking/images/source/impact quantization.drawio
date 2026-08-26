@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" pages="5">
   <diagram id="GujfM-OSkWC1j2ICfJ6f" name="800-30">
-    <mxGraphModel dx="1961" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1459" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,7 +304,7 @@
             <mxRectangle height="50" width="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HtGEHh8NZOHGXS3rw2dE-16" parent="HtGEHh8NZOHGXS3rw2dE-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=1;left=1;bottom=1;right=1;fontSize=22;strokeWidth=2;perimeterSpacing=2;strokeColor=inherit;align=left;spacingLeft=10;" value="a severe of catastrophic adverse effect" vertex="1">
+        <mxCell id="HtGEHh8NZOHGXS3rw2dE-16" parent="HtGEHh8NZOHGXS3rw2dE-14" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=1;left=1;bottom=1;right=1;fontSize=22;strokeWidth=2;perimeterSpacing=2;strokeColor=inherit;align=left;spacingLeft=10;" value="a severe or catastrophic adverse effect" vertex="1">
           <mxGeometry height="50" width="480" x="120" as="geometry">
             <mxRectangle height="50" width="480" as="alternateBounds" />
           </mxGeometry>
