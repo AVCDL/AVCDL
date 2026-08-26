@@ -326,7 +326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="14971" id="oQguqbqYcs79CjX3VHU1">
-    <mxGraphModel dx="1961" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1406" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="JuF7WWTyH8xLN3467vww-0" />
         <mxCell id="JuF7WWTyH8xLN3467vww-1" parent="JuF7WWTyH8xLN3467vww-0" />
@@ -523,7 +523,7 @@
             <mxRectangle height="50" width="160" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4cw9GHhv3g8ccLrgtomq-9" parent="4cw9GHhv3g8ccLrgtomq-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=1;left=1;bottom=1;right=1;fontSize=19;strokeWidth=2;perimeterSpacing=2;strokeColor=inherit;align=left;spacingLeft=10;" value="temporary injury or impairment requiring, &lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;not professional medical intervention&lt;/span&gt;" vertex="1">
+        <mxCell id="4cw9GHhv3g8ccLrgtomq-9" parent="4cw9GHhv3g8ccLrgtomq-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=1;left=1;bottom=1;right=1;fontSize=19;strokeWidth=2;perimeterSpacing=2;strokeColor=inherit;align=left;spacingLeft=10;" value="temporary injury or impairment, not requiring&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&amp;nbsp;professional medical intervention&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="680" x="160" as="geometry">
             <mxRectangle height="50" width="680" as="alternateBounds" />
           </mxGeometry>
