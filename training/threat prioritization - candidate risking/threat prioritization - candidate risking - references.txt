@@ -1,0 +1,24 @@
+AVCDL (AVCDL primary document)
+
+Threat Prioritization Plan (AVCDL secondary document)
+
+Threat Prioritization - Candidate Risking Procedure (AVCDL tertiary document)
+
+AVCDL threat candidate risking template (AVCDL template)
+
+Ranked / Risked Threat Report (AVCDL secondary document)
+
+ISO/SAE 21434:2021 Road vehicles - Cybersecurity engineering
+https://www.iso.org/standard/70918.html 
+
+ISO 26262-3:2018 Road vehicles - Functional safety - Part 3: Concept phase
+https://www.iso.org/standard/68385.html  
+
+ISO 14971:2019 Medical devices - Application of risk management to medical devices
+https://www.iso.org/standard/72704.html 
+
+NIST SP 800-30 r1 - Guide for Conducting Risk Assessments
+https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf 
+
+NIST FIPS 199 Standards for Security Categorization of Federal Information and Information Systems
+https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.199.pdf 

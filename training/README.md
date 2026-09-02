@@ -24,6 +24,9 @@ The following diagram shows the general **AVCDL** training path. The highlighted
 **threat prioritization - candidate ranking** [[video]](https://youtu.be/yTWYIke-WOE) [[supporting material]](./threat%20prioritization%20-%20candidate%20ranking/)
 <br/> This training covers the threat prioritization candidate ranking activity.
 
+**threat prioritization - candidate risking** [[video]](https://youtu.be/T1xq2_uyy98) [[supporting material]](./threat%20prioritization%20-%20candidate%20risking/)
+<br/> This training covers the threat prioritization candidate risking activity.
+
 **issue triage** [[video]](https://youtu.be/xxjTHjX24rw) [[supporting material]](./issue%20triage/)
 <br/> This training covers general methodology for issue triage.
 

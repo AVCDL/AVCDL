@@ -1,0 +1,19 @@
+1. Select those who participate in the threat prioritization process:
+    a. security SME
+*   b. risk SME
+    c. development SME
+    d. devops SME
+
+2. It is important to provide a worst case scenario for each threat candidate.
+*   a. true
+    b. false
+    
+3. An organization must use only a single impact rubric for all cybersecurity activities.
+    a. true
+*   b. false
+
+4.  Which of the following is NOT a field recorded for each risked threat candidate:
+    a. a description of the threat
+*   b. the developer responsible for the element containing the threat
+    c. the element containing the threat candidate
+    d. the threat candidate's ID

@@ -1,0 +1,21 @@
+00:00 Title
+00:10 Training Path
+00:32 Workflow
+00:40 Process Workflow
+00:53 Candidate Risking Activity
+01:38 Impact Rubrics
+04:12 Example
+04:24 Reference Documents
+04:47 Label Mapping
+06:23 Example System
+06:44 Triage Information
+07:04 Ranking
+07:36 Risking
+09:01 Recap
+09:10 Summary
+09:49 Example Materials
+10:01 Further Reading
+10:15 AVCDL on GitHub
+10:36 AVCDL on YouTube
+10:52 Next Steps
+11:20 References
